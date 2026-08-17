@@ -1,0 +1,73 @@
+{
+  "accuracy": 0.275,
+  "precision_weighted": 0.2645375183971894,
+  "recall_weighted": 0.275,
+  "f1_weighted": 0.2690595013371087,
+  "confusion_matrix": [
+    [
+      0,
+      6,
+      0,
+      4,
+      2
+    ],
+    [
+      2,
+      31,
+      7,
+      26,
+      13
+    ],
+    [
+      2,
+      8,
+      4,
+      3,
+      5
+    ],
+    [
+      2,
+      24,
+      5,
+      14,
+      8
+    ],
+    [
+      0,
+      15,
+      1,
+      12,
+      6
+    ]
+  ],
+  "class_labels": [
+    "At Risk",
+    "Champion",
+    "Lost",
+    "Loyal",
+    "Potential"
+  ],
+  "roc_auc_ovr_weighted": 0.49943893434031067,
+  "cross_validation_f1_weighted": {
+    "mean": 0.2826574909731886,
+    "std": 0.0348186030188425,
+    "folds": [
+      0.30724543489136646,
+      0.32777149321266974,
+      0.24467562621280856,
+      0.23963008415147263,
+      0.29396481639762573
+    ]
+  },
+  "baseline_majority_class_accuracy": 0.395,
+  "baseline_logistic_regression_accuracy": 0.18,
+  "model": "RandomForestClassifier",
+  "hyperparameters": {
+    "n_estimators": 300,
+    "max_depth": 12,
+    "min_samples_leaf": 3,
+    "class_weight": "balanced",
+    "random_state": 42,
+    "n_jobs": -1
+  }
+}

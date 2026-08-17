@@ -1,0 +1,11 @@
+services:
+  delivery-intelligence-api:
+    build: .
+    image: delivery-intelligence-ml:latest
+    container_name: delivery-intelligence-api
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./models:/app/models
+      - ./reports:/app/reports
+    restart: unless-stopped

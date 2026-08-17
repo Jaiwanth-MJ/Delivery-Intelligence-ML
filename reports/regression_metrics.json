@@ -1,0 +1,27 @@
+{
+  "mae": 10.78173041003742,
+  "mse": 159.08530544403524,
+  "rmse": 12.612902340224284,
+  "r2": -0.06285046576849562,
+  "cross_validation_r2": {
+    "mean": -0.056267992829341695,
+    "std": 0.03789016241863451,
+    "folds": [
+      -0.057525780392340575,
+      -0.003267938778251267,
+      -0.025390378088894883,
+      -0.09837943279233863,
+      -0.09677643409488312
+    ]
+  },
+  "baseline_mean_predictor_r2": -0.011729347621117991,
+  "baseline_linear_regression_r2": -0.04662471745092689,
+  "model": "RandomForestRegressor",
+  "hyperparameters": {
+    "n_estimators": 300,
+    "max_depth": 12,
+    "min_samples_leaf": 3,
+    "random_state": 42,
+    "n_jobs": -1
+  }
+}

@@ -1,0 +1,1001 @@
+Category,Quantity,Delivery Lead Time,Segment,Carrier
+Sevai,190,39,At Risk,DTDC
+Noodles,465,29,Loyal,akr express
+Cookies,369,15,Loyal,akr express
+Cookies,77,43,Potential,SELF
+Hakka,360,8,Champion,SELF
+Bites,421,21,Loyal,kerry
+Hakka,468,39,Loyal,dtdc
+Bites,330,19,Loyal,self
+Bites,58,23,Potential,self
+Noodles,184,11,Loyal,vrl
+Others,61,11,Champion,DTDC
+Noodles,111,24,Champion,dtdc
+Sevai,225,36,Champion,courier
+Bites,447,40,Loyal,akr express
+Cookies,197,24,Potential,VRL
+Others,66,3,Loyal,safe express
+Pasta,56,22,Potential,kerry
+Sevai,168,2,Lost,DTDC
+Noodles,498,24,Champion,DTDC
+Hakka,183,44,Champion,DTDC
+Sevai,251,30,Champion,akr express
+Sevai,291,38,Champion,akr express
+Others,250,2,Lost,safe express
+Sevai,379,21,Lost,courier
+Sevai,14,33,Champion,dtdc
+Pasta,93,12,Champion,DTDC
+Hakka,317,22,Lost,self
+Hakka,370,44,At Risk,SELF
+Hakka,468,25,Champion,self
+Bites,257,27,Champion,vrl
+Cookies,63,42,Champion,self
+Hakka,170,28,At Risk,vrl
+Sevai,443,16,Loyal,VRL
+Sevai,431,15,Champion,SELF
+Hakka,420,44,Champion,self
+Others,235,3,Champion,VRL
+Hakka,24,37,Champion,kerry
+Sevai,233,7,At Risk,dtdc
+Bites,70,21,Loyal,VRL
+Noodles,131,9,Champion,dtdc
+Noodles,286,39,Loyal,self
+Hakka,55,18,Loyal,courier
+Pasta,462,4,Champion,VRL
+Hakka,399,25,Champion,SELF
+Others,303,14,Champion,self
+Hakka,71,9,Champion,DTDC
+Noodles,95,26,Loyal,akr express
+Sevai,455,2,Champion,VRL
+Hakka,219,20,At Risk,SELF
+Sevai,87,28,Lost,kerry
+Sevai,211,7,Champion,DTDC
+Pasta,311,44,Champion,kerry
+Sevai,406,8,Lost,self
+Noodles,232,35,Loyal,akr express
+Bites,231,14,Potential,VRL
+Bites,12,17,Lost,VRL
+Cookies,487,36,Loyal,courier
+Others,15,40,Loyal,courier
+Hakka,102,4,At Risk,self
+Others,17,2,Champion,self
+Noodles,437,6,Loyal,akr express
+Sevai,244,42,Champion,courier
+Bites,117,4,Champion,SELF
+Others,170,29,Potential,SELF
+Noodles,218,18,Potential,akr express
+Bites,249,26,At Risk,SELF
+Sevai,340,44,Champion,vrl
+Others,342,34,Champion,dtdc
+Bites,59,10,Champion,akr express
+Hakka,20,36,Champion,akr express
+Hakka,360,14,Loyal,safe express
+Cookies,165,31,At Risk,DTDC
+Cookies,79,15,Lost,DTDC
+Bites,178,8,Champion,vrl
+Noodles,281,14,Champion,courier
+Hakka,77,23,Loyal,self
+Noodles,364,40,Champion,self
+Noodles,261,21,Potential,kerry
+Bites,57,16,Champion,vrl
+Noodles,193,18,At Risk,akr express
+Hakka,329,24,Champion,vrl
+Sevai,196,26,Champion,vrl
+Cookies,99,25,Potential,vrl
+Sevai,455,41,Loyal,DTDC
+Noodles,341,29,Champion,vrl
+Sevai,148,15,Champion,dtdc
+Hakka,366,1,Champion,self
+Hakka,98,25,Potential,kerry
+Noodles,283,7,Champion,dtdc
+Bites,28,9,Potential,kerry
+Sevai,480,24,Champion,safe express
+Bites,320,1,Champion,kerry
+Bites,367,44,Potential,self
+Pasta,383,8,Loyal,self
+Noodles,475,24,Loyal,vrl
+Cookies,163,11,Champion,VRL
+Hakka,399,17,Champion,safe express
+Hakka,269,8,Loyal,akr express
+Noodles,117,35,Champion,SELF
+Others,380,35,Champion,kerry
+Others,294,33,Champion,VRL
+Others,68,5,At Risk,vrl
+Cookies,134,42,Champion,DTDC
+Hakka,363,39,Lost,akr express
+Noodles,282,41,Loyal,courier
+Hakka,116,28,Champion,VRL
+Bites,308,7,Lost,DTDC
+Sevai,254,9,Champion,safe express
+Sevai,345,8,Potential,vrl
+Hakka,459,12,Champion,akr express
+Pasta,427,34,Loyal,akr express
+Cookies,256,33,Champion,akr express
+Others,17,23,Champion,safe express
+Cookies,150,24,Lost,kerry
+Cookies,371,37,Loyal,courier
+Bites,17,35,At Risk,safe express
+Cookies,487,44,At Risk,SELF
+Sevai,361,40,Loyal,courier
+Bites,493,22,Champion,self
+Noodles,103,27,Lost,vrl
+Cookies,330,35,At Risk,safe express
+Cookies,436,1,Champion,DTDC
+Noodles,48,35,Champion,courier
+Cookies,90,37,Champion,SELF
+Noodles,196,14,Potential,self
+Bites,93,3,Champion,kerry
+Sevai,97,1,Potential,DTDC
+Noodles,251,5,Loyal,courier
+Pasta,351,26,Loyal,vrl
+Noodles,102,14,Champion,DTDC
+Cookies,95,39,Champion,self
+Others,53,27,Champion,DTDC
+Others,146,9,Champion,dtdc
+Bites,430,15,Champion,VRL
+Hakka,83,15,Loyal,kerry
+Bites,45,26,Champion,self
+Hakka,110,42,At Risk,DTDC
+Others,485,13,Champion,VRL
+Others,165,32,Champion,VRL
+Noodles,435,39,Champion,DTDC
+Sevai,264,32,At Risk,vrl
+Pasta,180,4,Loyal,dtdc
+Bites,478,30,Potential,safe express
+Cookies,225,37,Potential,dtdc
+Hakka,179,23,Champion,DTDC
+Cookies,261,39,Loyal,kerry
+Sevai,369,15,Potential,safe express
+Hakka,331,43,Loyal,self
+Bites,64,29,Champion,dtdc
+Noodles,465,36,Potential,DTDC
+Cookies,441,13,Loyal,dtdc
+Sevai,100,32,Lost,safe express
+Bites,287,7,Loyal,SELF
+Others,110,22,Lost,courier
+Others,164,28,Champion,dtdc
+Bites,386,2,Loyal,self
+Bites,358,42,Loyal,self
+Bites,460,6,At Risk,akr express
+Hakka,373,28,Loyal,dtdc
+Bites,150,28,Loyal,courier
+Cookies,182,44,Champion,vrl
+Sevai,19,44,Champion,VRL
+Hakka,237,20,Champion,courier
+Bites,274,30,Loyal,VRL
+Pasta,447,11,Champion,VRL
+Pasta,257,28,Loyal,SELF
+Sevai,256,25,Loyal,akr express
+Others,164,39,Champion,courier
+Noodles,43,33,Potential,courier
+Noodles,138,1,Loyal,SELF
+Others,169,27,Champion,dtdc
+Hakka,98,13,Champion,dtdc
+Hakka,102,41,At Risk,dtdc
+Hakka,336,3,At Risk,kerry
+Noodles,250,39,Potential,VRL
+Pasta,332,6,Loyal,kerry
+Noodles,477,8,Loyal,akr express
+Cookies,413,27,Champion,SELF
+Bites,126,9,Champion,courier
+Hakka,103,37,Champion,VRL
+Pasta,172,33,Potential,kerry
+Sevai,108,42,Lost,kerry
+Sevai,122,44,Lost,DTDC
+Bites,368,24,Champion,kerry
+Pasta,100,15,Potential,vrl
+Noodles,355,32,Champion,courier
+Noodles,215,32,Loyal,vrl
+Cookies,26,24,Potential,courier
+Cookies,283,41,Loyal,SELF
+Noodles,182,12,Champion,courier
+Sevai,125,39,Champion,vrl
+Hakka,358,2,Potential,courier
+Sevai,477,3,Potential,SELF
+Cookies,190,37,Champion,SELF
+Bites,100,17,Potential,akr express
+Noodles,91,2,Champion,courier
+Cookies,333,2,Champion,DTDC
+Cookies,458,28,Potential,dtdc
+Hakka,123,23,Potential,self
+Noodles,266,37,At Risk,SELF
+Hakka,67,32,Loyal,safe express
+Noodles,163,33,Potential,dtdc
+Hakka,374,1,Champion,VRL
+Sevai,413,19,Lost,courier
+Bites,125,2,Loyal,vrl
+Bites,352,44,Potential,self
+Noodles,275,26,Champion,safe express
+Pasta,324,32,Champion,dtdc
+Others,212,6,Champion,courier
+Cookies,50,32,Champion,akr express
+Cookies,114,4,Champion,VRL
+Noodles,398,11,Lost,self
+Hakka,387,17,Champion,DTDC
+Pasta,202,38,Champion,akr express
+Sevai,410,24,Champion,safe express
+Hakka,287,5,Loyal,self
+Hakka,363,34,Loyal,akr express
+Noodles,246,6,Champion,VRL
+Noodles,434,22,Champion,DTDC
+Cookies,230,11,Loyal,akr express
+Noodles,77,16,Champion,kerry
+Noodles,206,33,Champion,DTDC
+Noodles,265,9,Champion,safe express
+Cookies,148,6,Champion,VRL
+Sevai,321,16,Loyal,courier
+Sevai,444,29,Lost,vrl
+Others,158,3,Lost,vrl
+Others,108,20,Potential,vrl
+Noodles,85,36,Loyal,self
+Others,291,19,Potential,safe express
+Cookies,380,26,Potential,VRL
+Sevai,412,3,Potential,DTDC
+Hakka,118,19,Loyal,self
+Sevai,197,20,Champion,safe express
+Sevai,208,32,Lost,courier
+Cookies,312,7,Champion,kerry
+Others,336,41,Champion,VRL
+Hakka,163,33,Champion,vrl
+Cookies,49,40,Champion,akr express
+Noodles,142,39,Loyal,VRL
+Bites,414,18,Champion,SELF
+Sevai,471,40,Loyal,safe express
+Bites,141,1,Champion,dtdc
+Cookies,288,11,Champion,courier
+Cookies,371,28,Champion,kerry
+Cookies,93,25,Loyal,courier
+Bites,408,23,Potential,VRL
+Cookies,251,31,Potential,dtdc
+Noodles,125,30,Loyal,SELF
+Cookies,118,42,Loyal,DTDC
+Pasta,230,35,Loyal,akr express
+Others,401,7,Lost,dtdc
+Bites,50,16,Champion,safe express
+Pasta,377,26,Champion,vrl
+Cookies,156,2,Loyal,SELF
+Noodles,121,1,Champion,akr express
+Sevai,112,12,Lost,kerry
+Hakka,55,5,Potential,vrl
+Others,421,37,Champion,VRL
+Hakka,484,32,Loyal,dtdc
+Cookies,333,9,Loyal,akr express
+Others,387,41,Loyal,self
+Others,280,35,Champion,DTDC
+Noodles,492,19,Loyal,DTDC
+Others,430,16,Champion,SELF
+Bites,394,3,Champion,kerry
+Pasta,204,20,Lost,SELF
+Pasta,376,24,Champion,self
+Pasta,289,33,Lost,safe express
+Bites,292,24,Potential,kerry
+Hakka,49,11,Loyal,courier
+Noodles,456,8,Potential,safe express
+Others,198,36,Champion,kerry
+Bites,173,38,Champion,kerry
+Pasta,491,40,Champion,self
+Cookies,486,20,At Risk,VRL
+Sevai,33,35,Champion,self
+Others,33,25,Champion,kerry
+Bites,499,35,Lost,akr express
+Bites,13,25,Loyal,safe express
+Noodles,332,29,Potential,self
+Noodles,299,18,Potential,VRL
+Bites,450,18,Lost,dtdc
+Pasta,442,2,At Risk,SELF
+Sevai,480,35,At Risk,kerry
+Others,190,16,Loyal,courier
+Noodles,257,41,Potential,dtdc
+Others,125,36,Champion,DTDC
+Pasta,288,33,Champion,vrl
+Others,374,4,Loyal,VRL
+Cookies,78,33,Potential,courier
+Noodles,360,14,At Risk,vrl
+Pasta,263,21,Lost,VRL
+Pasta,190,20,Champion,akr express
+Sevai,327,8,Loyal,SELF
+Sevai,178,7,Champion,dtdc
+Cookies,322,3,Potential,safe express
+Pasta,258,17,Potential,VRL
+Hakka,197,33,Champion,safe express
+Pasta,63,12,Loyal,SELF
+Sevai,335,22,Champion,kerry
+Hakka,366,22,Champion,DTDC
+Noodles,322,30,Lost,dtdc
+Noodles,147,38,Champion,SELF
+Others,177,38,Champion,SELF
+Bites,400,8,Champion,akr express
+Sevai,112,27,Loyal,vrl
+Bites,431,27,At Risk,DTDC
+Hakka,94,34,Champion,dtdc
+Sevai,326,21,Champion,kerry
+Cookies,221,30,Champion,kerry
+Pasta,12,33,Potential,self
+Cookies,393,28,Potential,SELF
+Hakka,188,33,Potential,VRL
+Sevai,351,5,Champion,akr express
+Hakka,312,19,Champion,DTDC
+Pasta,461,4,Loyal,kerry
+Noodles,485,35,Potential,dtdc
+Noodles,341,17,Loyal,self
+Hakka,47,44,Champion,dtdc
+Bites,429,28,Lost,akr express
+Sevai,248,30,Lost,VRL
+Sevai,178,29,Champion,self
+Noodles,462,6,Champion,self
+Others,406,35,Loyal,vrl
+Cookies,352,41,Potential,DTDC
+Others,323,37,Potential,self
+Pasta,315,24,Loyal,vrl
+Cookies,39,29,Champion,vrl
+Cookies,199,31,Lost,akr express
+Hakka,366,35,Lost,safe express
+Noodles,34,33,Loyal,dtdc
+Others,121,21,Champion,VRL
+Others,420,32,Loyal,courier
+Noodles,444,23,Loyal,dtdc
+Others,215,33,Lost,self
+Noodles,194,3,Potential,VRL
+Hakka,391,18,Potential,kerry
+Bites,388,25,Loyal,safe express
+Cookies,56,42,Lost,kerry
+Hakka,383,31,Champion,kerry
+Sevai,237,3,Champion,DTDC
+Pasta,48,40,Champion,dtdc
+Bites,25,24,Loyal,courier
+Sevai,31,32,Potential,akr express
+Cookies,222,22,Champion,courier
+Others,319,23,Loyal,kerry
+Noodles,158,2,Loyal,self
+Cookies,465,27,Loyal,safe express
+Hakka,250,42,Loyal,SELF
+Pasta,281,2,Champion,courier
+Hakka,68,26,Lost,kerry
+Bites,296,17,Loyal,safe express
+Bites,435,40,Loyal,VRL
+Pasta,211,33,Champion,dtdc
+Sevai,41,9,Potential,vrl
+Sevai,452,43,Champion,DTDC
+Bites,171,39,Champion,safe express
+Bites,264,29,Champion,self
+Others,263,42,Champion,self
+Noodles,18,26,Loyal,safe express
+Others,474,35,Potential,self
+Others,148,25,Champion,dtdc
+Sevai,489,24,Champion,self
+Pasta,19,13,Potential,courier
+Sevai,223,7,Potential,vrl
+Noodles,282,36,Loyal,self
+Hakka,333,20,Champion,vrl
+Bites,57,1,Loyal,kerry
+Bites,445,8,Loyal,akr express
+Noodles,120,16,Potential,dtdc
+Others,162,14,Lost,akr express
+Pasta,132,12,At Risk,kerry
+Bites,414,23,Champion,dtdc
+Cookies,366,15,Loyal,safe express
+Others,111,28,Loyal,safe express
+Bites,250,34,Potential,vrl
+Cookies,330,2,Champion,kerry
+Noodles,200,32,Champion,vrl
+Noodles,226,23,Potential,DTDC
+Others,60,22,Potential,self
+Bites,301,25,Lost,SELF
+Sevai,90,22,Loyal,DTDC
+Cookies,498,22,Potential,self
+Pasta,392,42,Lost,dtdc
+Bites,97,6,Champion,vrl
+Pasta,203,15,Champion,dtdc
+Bites,113,43,Champion,dtdc
+Sevai,280,37,At Risk,self
+Sevai,105,33,Loyal,kerry
+Others,432,8,Champion,self
+Others,388,44,Loyal,VRL
+Sevai,207,44,Potential,safe express
+Hakka,10,5,Loyal,safe express
+Sevai,416,39,Loyal,DTDC
+Noodles,387,4,Champion,safe express
+Noodles,176,6,Lost,self
+Hakka,135,32,Loyal,courier
+Cookies,322,30,Loyal,vrl
+Pasta,90,35,Potential,self
+Bites,427,40,Champion,self
+Bites,260,16,Lost,SELF
+Hakka,178,13,Loyal,vrl
+Noodles,486,42,Champion,VRL
+Others,82,30,Loyal,safe express
+Bites,150,19,Loyal,vrl
+Noodles,79,17,Potential,safe express
+Cookies,271,19,Champion,DTDC
+Pasta,349,28,Potential,vrl
+Cookies,317,26,Champion,safe express
+Hakka,254,37,Champion,VRL
+Sevai,12,26,Champion,akr express
+Sevai,346,23,At Risk,dtdc
+Sevai,72,9,Champion,dtdc
+Cookies,58,12,Champion,VRL
+Bites,85,1,Champion,SELF
+Pasta,377,1,Champion,akr express
+Sevai,184,34,Champion,DTDC
+Hakka,118,32,Lost,VRL
+Hakka,192,25,Champion,dtdc
+Sevai,201,40,Lost,dtdc
+Sevai,74,1,Loyal,dtdc
+Pasta,346,16,Potential,kerry
+Sevai,460,39,Lost,VRL
+Pasta,483,5,Loyal,self
+Hakka,280,22,At Risk,DTDC
+Sevai,109,29,Champion,dtdc
+Cookies,41,3,Lost,safe express
+Others,361,12,Potential,VRL
+Cookies,137,26,Champion,kerry
+Hakka,461,16,Loyal,VRL
+Pasta,411,37,Champion,DTDC
+Cookies,378,22,Loyal,kerry
+Pasta,348,29,Loyal,DTDC
+Cookies,52,14,Loyal,VRL
+Cookies,381,28,Champion,self
+Pasta,428,5,Potential,DTDC
+Bites,497,30,Loyal,kerry
+Cookies,87,5,Loyal,kerry
+Sevai,323,12,Champion,DTDC
+Others,298,16,Loyal,courier
+Hakka,279,26,Loyal,VRL
+Bites,171,26,Loyal,courier
+Pasta,198,21,Lost,SELF
+Bites,256,39,Potential,VRL
+Noodles,397,36,Champion,DTDC
+Noodles,225,33,Potential,akr express
+Cookies,324,30,Champion,DTDC
+Cookies,422,37,Potential,courier
+Sevai,348,23,Potential,self
+Others,399,10,Champion,DTDC
+Hakka,386,5,Champion,DTDC
+Bites,490,36,Loyal,self
+Noodles,442,34,Champion,DTDC
+Cookies,177,31,Lost,dtdc
+Hakka,348,10,Champion,akr express
+Bites,202,19,Lost,safe express
+Cookies,462,32,At Risk,akr express
+Cookies,292,1,Loyal,DTDC
+Noodles,345,5,Potential,dtdc
+Noodles,399,4,Potential,VRL
+Cookies,497,16,At Risk,DTDC
+Pasta,22,24,At Risk,courier
+Cookies,249,16,Potential,dtdc
+Hakka,329,2,Loyal,self
+Cookies,455,28,Potential,dtdc
+Sevai,492,32,Loyal,self
+Others,156,27,Potential,SELF
+Sevai,213,20,Lost,safe express
+Sevai,89,24,Champion,vrl
+Pasta,388,12,Champion,dtdc
+Pasta,52,35,Champion,kerry
+Cookies,467,33,Champion,courier
+Sevai,98,33,Champion,DTDC
+Pasta,157,43,Potential,courier
+Noodles,104,37,Lost,akr express
+Cookies,461,12,Lost,vrl
+Hakka,437,3,Loyal,akr express
+Others,160,1,Lost,SELF
+Bites,11,33,Potential,vrl
+Cookies,385,40,Champion,vrl
+Bites,31,10,Loyal,akr express
+Sevai,380,43,Champion,self
+Others,322,44,Lost,akr express
+Bites,494,29,Champion,courier
+Sevai,337,13,Potential,self
+Noodles,16,12,Champion,courier
+Bites,215,31,Potential,SELF
+Others,449,2,Loyal,DTDC
+Cookies,384,35,Champion,VRL
+Sevai,460,23,Champion,self
+Cookies,123,17,Loyal,SELF
+Others,281,26,Potential,kerry
+Pasta,92,8,Loyal,SELF
+Sevai,188,29,Potential,akr express
+Bites,219,26,Champion,akr express
+Sevai,473,10,Champion,VRL
+Cookies,337,26,Loyal,SELF
+Noodles,133,34,Loyal,safe express
+Sevai,490,41,Lost,DTDC
+Bites,122,7,Champion,akr express
+Pasta,21,4,Potential,VRL
+Hakka,135,11,At Risk,DTDC
+Noodles,62,29,Loyal,SELF
+Pasta,340,36,Champion,SELF
+Sevai,398,25,Potential,vrl
+Cookies,292,21,At Risk,VRL
+Others,149,36,Lost,akr express
+Cookies,410,10,Champion,safe express
+Bites,399,37,Potential,SELF
+Cookies,106,9,Loyal,safe express
+Noodles,14,24,At Risk,SELF
+Cookies,66,35,At Risk,akr express
+Bites,421,35,Loyal,DTDC
+Hakka,343,36,Champion,dtdc
+Sevai,78,18,Loyal,DTDC
+Others,127,39,Champion,SELF
+Sevai,385,32,Potential,courier
+Cookies,68,24,Champion,dtdc
+Pasta,42,23,Loyal,dtdc
+Sevai,327,32,Champion,safe express
+Hakka,59,37,At Risk,VRL
+Cookies,377,12,Champion,safe express
+Others,498,13,Champion,safe express
+Bites,28,23,Loyal,courier
+Hakka,223,25,At Risk,DTDC
+Cookies,206,35,Potential,DTDC
+Hakka,388,41,Champion,kerry
+Sevai,459,30,Loyal,SELF
+Others,487,17,Loyal,courier
+Bites,56,20,Loyal,kerry
+Cookies,176,25,Champion,akr express
+Noodles,461,22,Lost,SELF
+Bites,298,13,Champion,SELF
+Noodles,150,19,Lost,vrl
+Hakka,93,36,Champion,vrl
+Pasta,191,12,Potential,self
+Bites,400,41,Potential,self
+Hakka,88,19,Loyal,safe express
+Noodles,224,12,Champion,akr express
+Sevai,23,9,Champion,dtdc
+Sevai,224,7,Loyal,dtdc
+Pasta,412,28,Champion,vrl
+Bites,137,14,Champion,vrl
+Bites,319,31,At Risk,vrl
+Bites,486,19,Champion,courier
+Hakka,257,16,Potential,VRL
+Others,413,5,Champion,self
+Others,38,35,Potential,courier
+Pasta,289,12,Champion,DTDC
+Bites,347,25,Lost,dtdc
+Hakka,328,21,Champion,SELF
+Sevai,211,36,Champion,self
+Noodles,370,23,Champion,kerry
+Hakka,66,16,Champion,DTDC
+Others,401,39,Loyal,self
+Others,227,42,Loyal,courier
+Sevai,71,39,Loyal,akr express
+Sevai,166,14,Lost,SELF
+Noodles,211,31,Loyal,self
+Sevai,26,5,Loyal,VRL
+Pasta,331,35,Potential,vrl
+Noodles,15,23,Champion,vrl
+Sevai,67,29,Champion,SELF
+Cookies,334,43,Loyal,courier
+Hakka,421,11,At Risk,vrl
+Sevai,327,18,Lost,self
+Pasta,178,12,Lost,kerry
+Bites,462,9,Champion,dtdc
+Sevai,91,10,Potential,dtdc
+Others,483,44,Loyal,DTDC
+Others,477,17,Loyal,safe express
+Others,434,38,Loyal,akr express
+Bites,442,7,Champion,SELF
+Others,228,13,Champion,DTDC
+Cookies,186,40,Champion,safe express
+Sevai,213,42,Loyal,courier
+Others,80,9,Champion,VRL
+Noodles,396,27,Potential,VRL
+Bites,275,2,Champion,akr express
+Cookies,107,5,Potential,vrl
+Noodles,354,29,Loyal,self
+Noodles,300,37,Potential,DTDC
+Noodles,217,38,Champion,DTDC
+Noodles,11,19,Loyal,SELF
+Sevai,133,8,Loyal,SELF
+Others,289,1,Champion,VRL
+Hakka,83,22,Potential,VRL
+Sevai,175,17,Champion,kerry
+Sevai,31,7,Champion,kerry
+Cookies,163,25,Lost,vrl
+Cookies,436,4,Potential,kerry
+Others,448,36,Champion,self
+Hakka,304,6,Champion,self
+Cookies,228,31,Loyal,DTDC
+Others,166,19,Champion,dtdc
+Others,239,44,Champion,self
+Pasta,29,39,At Risk,safe express
+Hakka,484,27,Champion,VRL
+Cookies,50,10,Champion,SELF
+Hakka,447,26,Champion,kerry
+Sevai,157,19,Lost,DTDC
+Sevai,117,39,Potential,akr express
+Hakka,412,3,Champion,SELF
+Pasta,93,13,Potential,safe express
+Pasta,492,28,Champion,kerry
+Hakka,376,20,Champion,safe express
+Cookies,331,28,Loyal,VRL
+Bites,423,8,Champion,VRL
+Pasta,318,41,Loyal,vrl
+Noodles,299,39,Lost,DTDC
+Sevai,415,1,Champion,SELF
+Hakka,332,3,At Risk,courier
+Noodles,143,13,Champion,courier
+Hakka,216,28,Champion,SELF
+Others,292,25,Champion,akr express
+Sevai,275,33,Loyal,DTDC
+Sevai,82,38,Champion,safe express
+Pasta,490,6,Loyal,akr express
+Pasta,361,44,Champion,dtdc
+Noodles,57,32,Champion,SELF
+Others,335,21,Potential,safe express
+Hakka,242,16,Loyal,courier
+Others,452,21,Loyal,self
+Sevai,109,11,Champion,vrl
+Noodles,68,37,Lost,courier
+Bites,267,36,Potential,DTDC
+Noodles,422,35,Champion,VRL
+Cookies,461,19,Champion,self
+Noodles,74,20,Loyal,vrl
+Others,92,18,At Risk,vrl
+Cookies,163,41,Potential,dtdc
+Cookies,482,14,Champion,dtdc
+Cookies,275,15,Champion,kerry
+Bites,318,31,Loyal,courier
+Noodles,88,1,At Risk,courier
+Others,324,3,Loyal,courier
+Noodles,159,16,Champion,kerry
+Bites,444,23,Loyal,akr express
+Sevai,57,11,Potential,vrl
+Pasta,414,12,Potential,self
+Others,388,10,Potential,DTDC
+Others,257,32,Champion,vrl
+Noodles,287,16,Lost,dtdc
+Pasta,365,8,Loyal,safe express
+Hakka,107,38,Champion,VRL
+Hakka,423,12,Loyal,kerry
+Bites,34,24,At Risk,SELF
+Hakka,293,28,Champion,safe express
+Others,458,8,Potential,DTDC
+Hakka,378,28,Potential,courier
+Sevai,310,36,Loyal,dtdc
+Sevai,77,26,Loyal,dtdc
+Sevai,16,8,Champion,dtdc
+Hakka,314,28,Champion,courier
+Bites,146,28,Loyal,SELF
+Cookies,173,37,Loyal,kerry
+Cookies,92,41,Lost,safe express
+Pasta,394,36,At Risk,courier
+Cookies,147,27,Champion,DTDC
+Cookies,429,17,Champion,kerry
+Sevai,82,9,Loyal,DTDC
+Sevai,246,33,Potential,kerry
+Hakka,55,20,Potential,SELF
+Pasta,115,13,Loyal,VRL
+Noodles,425,28,Loyal,DTDC
+Others,297,29,Potential,courier
+Pasta,271,13,Champion,kerry
+Pasta,185,35,Loyal,dtdc
+Bites,175,6,Champion,vrl
+Hakka,154,18,Champion,dtdc
+Bites,339,5,Champion,akr express
+Pasta,379,25,Potential,VRL
+Pasta,292,2,Potential,VRL
+Pasta,63,10,Champion,dtdc
+Cookies,187,30,Lost,safe express
+Others,428,5,Champion,SELF
+Others,253,33,Potential,DTDC
+Bites,350,1,Champion,courier
+Pasta,136,18,Lost,VRL
+Others,418,32,Lost,dtdc
+Sevai,421,11,Loyal,dtdc
+Others,376,21,Lost,SELF
+Hakka,280,26,Potential,SELF
+Hakka,141,25,Potential,self
+Others,102,22,Loyal,self
+Sevai,388,27,Potential,safe express
+Hakka,82,13,Lost,safe express
+Cookies,420,33,Champion,akr express
+Others,419,34,At Risk,safe express
+Cookies,412,41,Loyal,kerry
+Others,257,35,Loyal,SELF
+Noodles,357,1,Champion,courier
+Noodles,282,21,Champion,kerry
+Noodles,52,6,Champion,DTDC
+Hakka,386,28,Loyal,dtdc
+Cookies,50,17,At Risk,safe express
+Cookies,179,5,Loyal,dtdc
+Cookies,443,31,Loyal,VRL
+Sevai,221,5,Loyal,akr express
+Cookies,177,38,Champion,VRL
+Sevai,48,3,Lost,akr express
+Noodles,378,23,Potential,self
+Noodles,254,37,Potential,dtdc
+Hakka,160,37,Loyal,akr express
+Others,120,10,Champion,vrl
+Noodles,489,10,Champion,kerry
+Others,445,19,Champion,akr express
+Others,56,17,Loyal,akr express
+Hakka,72,21,Potential,kerry
+Pasta,234,14,Champion,dtdc
+Pasta,375,9,Potential,dtdc
+Bites,78,1,Champion,kerry
+Hakka,308,13,Loyal,VRL
+Bites,441,4,Champion,vrl
+Bites,299,1,Loyal,courier
+Pasta,305,40,Lost,DTDC
+Hakka,212,32,Champion,vrl
+Pasta,70,34,Loyal,dtdc
+Bites,443,28,At Risk,courier
+Hakka,460,31,Champion,self
+Bites,327,8,Loyal,safe express
+Cookies,323,39,Champion,akr express
+Others,170,26,Champion,kerry
+Hakka,340,34,Potential,kerry
+Hakka,25,3,Potential,akr express
+Others,347,12,At Risk,safe express
+Bites,103,1,Champion,DTDC
+Cookies,313,44,Champion,safe express
+Sevai,147,5,Potential,courier
+Others,347,30,Loyal,safe express
+Pasta,47,30,Champion,courier
+Bites,136,17,Champion,safe express
+Others,284,23,Loyal,DTDC
+Others,173,15,Champion,DTDC
+Hakka,452,37,Lost,dtdc
+Pasta,328,21,Lost,akr express
+Pasta,86,14,Loyal,DTDC
+Pasta,183,2,Loyal,courier
+Others,396,11,Champion,DTDC
+Sevai,467,39,Lost,dtdc
+Noodles,367,38,Loyal,kerry
+Bites,330,34,Potential,courier
+Noodles,385,38,Loyal,dtdc
+Others,100,34,Champion,VRL
+Noodles,247,18,Champion,VRL
+Others,273,30,Potential,self
+Noodles,188,15,Loyal,safe express
+Pasta,499,27,Champion,akr express
+Cookies,218,34,Loyal,SELF
+Pasta,82,38,Potential,vrl
+Pasta,399,33,Lost,dtdc
+Hakka,116,24,Loyal,kerry
+Hakka,354,15,Lost,vrl
+Noodles,304,30,Champion,kerry
+Others,378,42,Loyal,vrl
+Pasta,453,17,Champion,dtdc
+Noodles,293,5,Loyal,SELF
+Hakka,362,29,Potential,vrl
+Cookies,191,4,Potential,dtdc
+Bites,46,10,Loyal,DTDC
+Noodles,146,17,Champion,SELF
+Cookies,347,10,Potential,courier
+Bites,65,17,Lost,kerry
+Sevai,196,20,Champion,VRL
+Noodles,350,24,At Risk,safe express
+Noodles,267,5,Champion,VRL
+Sevai,454,34,Champion,SELF
+Sevai,67,6,Lost,courier
+Noodles,372,2,Champion,kerry
+Sevai,132,13,Champion,courier
+Pasta,197,43,Champion,vrl
+Bites,239,43,Lost,kerry
+Bites,177,11,Lost,vrl
+Bites,429,23,Champion,dtdc
+Pasta,123,16,Champion,SELF
+Others,261,31,Champion,dtdc
+Sevai,116,11,Champion,self
+Cookies,46,16,Loyal,courier
+Sevai,344,8,Potential,vrl
+Noodles,101,4,Champion,DTDC
+Hakka,27,40,Champion,dtdc
+Bites,363,4,Loyal,self
+Sevai,72,25,Loyal,akr express
+Cookies,159,3,Lost,VRL
+Noodles,148,32,Champion,kerry
+Pasta,195,3,Loyal,self
+Others,194,27,Champion,SELF
+Pasta,214,29,Champion,dtdc
+Cookies,269,32,Loyal,SELF
+Noodles,223,19,Champion,VRL
+Bites,265,21,Champion,DTDC
+Sevai,144,5,Champion,courier
+Noodles,70,18,Champion,courier
+Others,372,28,Champion,SELF
+Pasta,319,42,At Risk,vrl
+Others,97,22,Champion,DTDC
+Others,333,21,Champion,courier
+Cookies,485,6,Loyal,DTDC
+Cookies,216,1,Champion,self
+Sevai,138,5,Potential,DTDC
+Cookies,320,41,Loyal,safe express
+Cookies,12,12,Potential,VRL
+Noodles,471,26,Loyal,courier
+Bites,431,34,Champion,DTDC
+Sevai,251,14,Potential,SELF
+Noodles,130,26,Champion,akr express
+Bites,394,27,Champion,safe express
+Others,111,9,Loyal,safe express
+Noodles,47,26,Potential,vrl
+Hakka,350,22,Loyal,DTDC
+Noodles,422,30,Lost,vrl
+Cookies,142,43,Loyal,vrl
+Bites,211,17,Lost,akr express
+Sevai,357,26,Champion,self
+Sevai,30,36,Potential,DTDC
+Bites,251,1,Champion,dtdc
+Cookies,464,8,Lost,courier
+Pasta,460,35,Loyal,vrl
+Noodles,118,15,Loyal,VRL
+Cookies,312,22,Champion,kerry
+Hakka,93,14,Loyal,VRL
+Others,92,26,Loyal,akr express
+Bites,300,28,Lost,akr express
+Noodles,461,23,At Risk,SELF
+Sevai,78,14,Champion,self
+Others,138,24,Lost,courier
+Pasta,205,2,Champion,vrl
+Hakka,149,26,Champion,VRL
+Sevai,453,14,Potential,kerry
+Bites,292,7,Potential,akr express
+Noodles,321,3,At Risk,akr express
+Bites,243,23,Champion,self
+Others,32,43,Potential,kerry
+Noodles,162,18,Loyal,kerry
+Cookies,286,38,Loyal,self
+Pasta,70,35,Loyal,akr express
+Cookies,328,15,At Risk,courier
+Cookies,387,25,Potential,DTDC
+Bites,61,37,Potential,DTDC
+Others,353,28,Champion,self
+Pasta,162,10,Champion,kerry
+Noodles,246,39,Loyal,vrl
+Noodles,320,17,Champion,self
+Hakka,311,39,Champion,courier
+Sevai,41,22,Potential,self
+Hakka,64,26,Champion,safe express
+Hakka,361,44,Loyal,VRL
+Noodles,398,25,Loyal,kerry
+Bites,45,17,Loyal,SELF
+Cookies,119,13,Champion,SELF
+Others,499,20,Lost,kerry
+Cookies,186,25,Champion,courier
+Cookies,371,4,Potential,safe express
+Pasta,323,10,Champion,safe express
+Noodles,304,3,Champion,akr express
+Others,345,41,Loyal,VRL
+Bites,106,18,Lost,DTDC
+Pasta,378,36,Potential,dtdc
+Sevai,222,22,Loyal,courier
+Bites,326,34,Champion,dtdc
+Hakka,146,8,Champion,dtdc
+Bites,15,40,Champion,kerry
+Bites,118,44,Lost,SELF
+Cookies,44,19,Champion,SELF
+Bites,48,42,Champion,DTDC
+Hakka,159,41,Loyal,kerry
+Hakka,434,37,Loyal,dtdc
+Noodles,127,6,Loyal,vrl
+Bites,270,26,Loyal,SELF
+Cookies,435,34,Potential,courier
+Bites,96,6,Potential,courier
+Sevai,474,37,Loyal,akr express
+Sevai,85,33,Lost,self
+Cookies,480,22,Loyal,vrl
+Noodles,473,21,Champion,SELF
+Noodles,460,6,Loyal,safe express
+Hakka,423,6,Champion,SELF
+Hakka,322,4,Champion,akr express
+Pasta,392,30,Champion,courier
+Cookies,223,11,Champion,dtdc
+Bites,466,30,At Risk,safe express
+Others,294,31,Loyal,kerry
+Cookies,248,24,Loyal,VRL
+Pasta,174,9,Loyal,dtdc
+Hakka,96,3,Champion,VRL
+Cookies,150,31,Loyal,vrl
+Cookies,169,40,Lost,self
+Hakka,55,37,Champion,safe express
+Pasta,381,36,Champion,DTDC
+Hakka,121,24,Champion,safe express
+Noodles,416,31,Loyal,SELF
+Bites,54,6,Loyal,courier
+Hakka,410,2,Champion,SELF
+Pasta,256,20,Champion,SELF
+Sevai,113,28,Loyal,vrl
+Noodles,94,11,Loyal,dtdc
+Sevai,459,4,At Risk,DTDC
+Others,494,15,Loyal,DTDC
+Hakka,143,6,Potential,SELF
+Noodles,117,30,Potential,VRL
+Bites,27,38,Champion,vrl
+Hakka,103,2,Loyal,SELF
+Bites,159,15,Loyal,self
+Cookies,255,11,Potential,courier
+Sevai,298,8,Champion,dtdc
+Noodles,423,26,Potential,kerry
+Bites,218,44,Lost,self
+Pasta,135,5,Potential,VRL
+Bites,244,6,Loyal,safe express
+Pasta,425,26,Loyal,safe express
+Hakka,435,4,Lost,self
+Noodles,471,19,Loyal,SELF
+Bites,131,20,Loyal,kerry
+Others,147,33,Potential,akr express
+Bites,124,20,Champion,akr express
+Others,429,12,Lost,VRL
+Noodles,171,1,Potential,SELF
+Bites,210,26,Loyal,DTDC
+Pasta,243,14,Lost,DTDC
+Bites,37,38,Champion,dtdc
+Sevai,20,37,Champion,kerry
+Hakka,215,11,Champion,kerry
+Cookies,176,36,Loyal,safe express
+Pasta,256,13,Champion,vrl
+Sevai,56,43,Loyal,VRL
+Others,255,3,Champion,akr express
+Hakka,136,33,Champion,VRL
+Noodles,156,6,Potential,DTDC
+Pasta,127,10,Potential,DTDC
+Cookies,408,5,Loyal,self
+Hakka,391,23,Champion,dtdc
+Others,421,10,Champion,kerry
+Cookies,161,44,Loyal,courier
+Noodles,81,2,Potential,VRL
+Noodles,372,13,Potential,DTDC
+Others,146,40,Loyal,vrl
+Pasta,184,2,Champion,safe express
+Others,298,20,Loyal,akr express
+Bites,455,1,Champion,dtdc
+Noodles,490,37,Loyal,vrl
+Hakka,28,9,At Risk,dtdc
+Bites,204,17,Potential,self
+Sevai,339,9,Champion,courier
+Cookies,433,11,Champion,DTDC
+Bites,184,15,Lost,safe express
+Cookies,499,24,Champion,vrl
+Others,458,38,Loyal,dtdc
+Bites,422,35,Champion,kerry
+Others,443,30,Lost,self
+Sevai,363,31,Champion,kerry
+Noodles,150,5,Potential,safe express
+Sevai,255,44,Lost,vrl
+Noodles,394,14,Lost,self
+Others,427,11,Lost,vrl
+Noodles,102,9,Loyal,DTDC
+Cookies,441,34,Champion,SELF
+Hakka,248,12,Potential,self
+Sevai,214,35,Potential,kerry
+Bites,57,35,Champion,safe express
+Sevai,442,1,Loyal,courier
+Cookies,254,40,Potential,DTDC
+Noodles,329,22,Potential,SELF
+Cookies,326,29,Loyal,courier
+Pasta,422,8,Champion,akr express
+Pasta,304,11,Loyal,DTDC
+Bites,137,41,Champion,safe express
+Cookies,353,37,Loyal,dtdc
+Others,291,14,Champion,self
+Bites,26,30,Champion,vrl
+Others,80,35,Champion,safe express
+Bites,278,21,Potential,self
+Pasta,334,37,Lost,courier
+Bites,291,5,Loyal,vrl
+Pasta,314,19,Loyal,VRL
+Noodles,460,14,Lost,kerry
+Others,16,26,Loyal,akr express
+Cookies,323,4,At Risk,DTDC
+Bites,314,25,Lost,safe express
+Pasta,112,42,Champion,akr express
+Sevai,318,25,At Risk,dtdc
+Others,202,18,Loyal,self
+Bites,250,40,Champion,self
+Hakka,71,8,Champion,safe express
+Noodles,26,39,Champion,SELF
+Noodles,180,40,Lost,SELF
+Sevai,34,14,Loyal,VRL
+Pasta,260,32,Champion,kerry
+Bites,262,38,Champion,vrl
+Others,396,33,Potential,dtdc
+Pasta,216,23,Champion,akr express
+Noodles,38,15,Champion,SELF
+Pasta,126,33,Lost,VRL
+Noodles,425,25,Loyal,VRL
+Pasta,291,17,Potential,safe express
+Sevai,389,33,Champion,dtdc
+Cookies,153,2,Potential,courier
+Sevai,34,14,Potential,vrl
+Sevai,319,40,Loyal,kerry
+Cookies,165,40,Champion,DTDC

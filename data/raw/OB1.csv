@@ -1,0 +1,1001 @@
+Delivey Lead Time,City Tier,Carrier,Category,Quantity,Order Date,Price
+39,Tier-3,DTDC,Sevai,190,45072,88.64
+29,Tier-3,akr express,Noodles,465,45119,72.28
+15,Tier-3,akr express,Cookies,369,45311,22.21
+43,Tier-1,SELF,Cookies,77,45320,147.18
+8,Tier-1,SELF,Hakka,360,45092,36.13
+21,Tier-3,kerry,Bites,421,45085,14.75
+39,Tier-3,dtdc,Hakka,468,45335,91.25
+19,Tier-3,self,Bites,330,45424,112.14
+23,Tier-1,self,Bites,58,45498,9.7
+11,Tier-3,vrl,Noodles,184,45363,100.51
+11,Tier-3,DTDC,Others,61,45434,82.18
+24,Tier-2,dtdc,Noodles,111,45117,19.97
+36,Tier-2,courier,Sevai,225,45232,30.02
+40,Tier-1,akr express,Bites,447,45198,87.36
+24,Tier-3,VRL,Cookies,197,45205,47.97
+3,Tier-3,safe express,Others,66,45412,141.06
+22,Tier-2,kerry,Pasta,56,45338,123.72
+2,Tier-1,DTDC,Sevai,168,45146,147.62
+24,Tier-2,DTDC,Noodles,498,45449,42.65
+44,Tier-2,DTDC,Hakka,183,45424,145.61
+30,Tier-2,akr express,Sevai,251,45428,67.53
+38,Tier-2,akr express,Sevai,291,45270,55.39
+2,Tier-3,safe express,Others,250,45386,12.3
+21,Tier-3,courier,Sevai,379,45138,12.65
+33,Tier-2,dtdc,Sevai,14,45180,105.34
+12,Tier-1,DTDC,Pasta,93,45429,71.4
+22,Tier-1,self,Hakka,317,45029,37.85
+44,Tier-1,SELF,Hakka,370,45056,94.03
+25,Tier-1,self,Hakka,468,45231,41.66
+27,Tier-2,vrl,Bites,257,45145,88.76
+42,Tier-3,self,Cookies,63,45434,57.09
+28,Tier-1,vrl,Hakka,170,45383,124.42
+16,Tier-2,VRL,Sevai,443,45047,124.0
+15,Tier-1,SELF,Sevai,431,45193,74.22
+44,Tier-1,self,Hakka,420,45223,55.87
+3,Tier-2,VRL,Others,235,45135,57.57
+37,Tier-3,kerry,Hakka,24,45021,121.83
+7,Tier-3,dtdc,Sevai,233,45005,52.59
+21,Tier-2,VRL,Bites,70,45203,35.31
+9,Tier-3,dtdc,Noodles,131,45238,17.28
+39,Tier-2,self,Noodles,286,45184,72.67
+18,Tier-2,courier,Hakka,55,45359,74.91
+4,Tier-2,VRL,Pasta,462,45291,126.93
+25,Tier-3,SELF,Hakka,399,45334,37.08
+14,Tier-2,self,Others,303,45219,60.24
+9,Tier-1,DTDC,Hakka,71,45115,122.22
+26,Tier-3,akr express,Noodles,95,45312,124.43
+2,Tier-3,VRL,Sevai,455,45048,60.77
+20,Tier-3,SELF,Hakka,219,45172,71.57
+28,Tier-3,kerry,Sevai,87,45081,48.98
+7,Tier-1,DTDC,Sevai,211,45321,140.22
+44,Tier-3,kerry,Pasta,311,45332,22.2
+8,Tier-3,self,Sevai,406,45044,140.39
+35,Tier-2,akr express,Noodles,232,45334,104.16
+14,Tier-3,VRL,Bites,231,45019,82.08
+17,Tier-1,VRL,Bites,12,45447,9.74
+36,Tier-1,courier,Cookies,487,45220,73.96
+40,Tier-1,courier,Others,15,45122,64.12
+4,Tier-1,self,Hakka,102,45233,28.38
+2,Tier-3,self,Others,17,45220,100.18
+6,Tier-3,akr express,Noodles,437,45322,145.82
+42,Tier-1,courier,Sevai,244,45338,86.52
+4,Tier-1,SELF,Bites,117,45002,108.64
+29,Tier-3,SELF,Others,170,45181,14.93
+18,Tier-1,akr express,Noodles,218,45205,65.56
+26,Tier-2,SELF,Bites,249,45319,21.87
+44,Tier-1,vrl,Sevai,340,45039,93.86
+34,Tier-1,dtdc,Others,342,45058,141.08
+10,Tier-2,akr express,Bites,59,45438,100.96
+36,Tier-2,akr express,Hakka,20,45061,16.14
+14,Tier-3,safe express,Hakka,360,45131,56.43
+31,Tier-3,DTDC,Cookies,165,45059,84.85
+15,Tier-2,DTDC,Cookies,79,45371,63.47
+8,Tier-2,vrl,Bites,178,45330,125.88
+14,Tier-3,courier,Noodles,281,45121,123.13
+23,Tier-1,self,Hakka,77,45478,93.72
+40,Tier-2,self,Noodles,364,45106,59.15
+21,Tier-3,kerry,Noodles,261,45095,42.02
+16,Tier-1,vrl,Bites,57,45346,20.35
+18,Tier-2,akr express,Noodles,193,45413,56.46
+24,Tier-1,vrl,Hakka,329,45234,64.91
+26,Tier-3,vrl,Sevai,196,45385,102.99
+25,Tier-2,vrl,Cookies,99,45061,100.43
+41,Tier-1,DTDC,Sevai,455,45255,15.17
+29,Tier-2,vrl,Noodles,341,45048,62.31
+15,Tier-1,dtdc,Sevai,148,45392,31.36
+1,Tier-3,self,Hakka,366,45347,27.74
+25,Tier-3,kerry,Hakka,98,45158,124.96
+7,Tier-2,dtdc,Noodles,283,45123,11.08
+9,Tier-1,kerry,Bites,28,45481,65.78
+24,Tier-2,safe express,Sevai,480,45316,29.39
+1,Tier-2,kerry,Bites,320,45206,132.5
+44,Tier-1,self,Bites,367,45047,85.77
+8,Tier-1,self,Pasta,383,45408,38.55
+24,Tier-1,vrl,Noodles,475,45419,77.85
+11,Tier-3,VRL,Cookies,163,45135,111.07
+17,Tier-2,safe express,Hakka,399,45200,143.93
+8,Tier-2,akr express,Hakka,269,45249,36.96
+35,Tier-3,SELF,Noodles,117,45313,133.5
+35,Tier-1,kerry,Others,380,45356,140.47
+33,Tier-3,VRL,Others,294,45367,137.88
+5,Tier-3,vrl,Others,68,45428,97.14
+42,Tier-3,DTDC,Cookies,134,45317,96.32
+39,Tier-2,akr express,Hakka,363,45294,63.47
+41,Tier-3,courier,Noodles,282,45479,114.1
+28,Tier-2,VRL,Hakka,116,45313,82.04
+7,Tier-2,DTDC,Bites,308,45499,103.23
+9,Tier-2,safe express,Sevai,254,45208,67.13
+8,Tier-1,vrl,Sevai,345,45354,111.07
+12,Tier-2,akr express,Hakka,459,45484,124.55
+34,Tier-2,akr express,Pasta,427,45210,26.23
+33,Tier-1,akr express,Cookies,256,45191,125.77
+23,Tier-2,safe express,Others,17,45043,83.34
+24,Tier-3,kerry,Cookies,150,45028,127.48
+37,Tier-3,courier,Cookies,371,45058,67.54
+35,Tier-2,safe express,Bites,17,45070,59.96
+44,Tier-1,SELF,Cookies,487,45091,137.68
+40,Tier-3,courier,Sevai,361,45264,41.42
+22,Tier-1,self,Bites,493,45382,127.41
+27,Tier-1,vrl,Noodles,103,45219,75.18
+35,Tier-3,safe express,Cookies,330,45389,79.54
+1,Tier-1,DTDC,Cookies,436,45412,49.73
+35,Tier-3,courier,Noodles,48,45441,88.09
+37,Tier-1,SELF,Cookies,90,45400,52.16
+14,Tier-3,self,Noodles,196,45399,10.69
+3,Tier-2,kerry,Bites,93,45214,44.44
+1,Tier-3,DTDC,Sevai,97,45478,5.92
+5,Tier-3,courier,Noodles,251,45386,146.86
+26,Tier-3,vrl,Pasta,351,45276,145.03
+14,Tier-3,DTDC,Noodles,102,45063,62.3
+39,Tier-1,self,Cookies,95,45345,110.61
+27,Tier-2,DTDC,Others,53,45291,55.14
+9,Tier-3,dtdc,Others,146,45489,102.31
+15,Tier-1,VRL,Bites,430,45484,121.79
+15,Tier-2,kerry,Hakka,83,45244,142.28
+26,Tier-2,self,Bites,45,45469,63.03
+42,Tier-2,DTDC,Hakka,110,45061,118.58
+13,Tier-2,VRL,Others,485,45425,43.56
+32,Tier-3,VRL,Others,165,45331,148.6
+39,Tier-3,DTDC,Noodles,435,45169,8.74
+32,Tier-1,vrl,Sevai,264,45444,92.51
+4,Tier-1,dtdc,Pasta,180,45268,100.63
+30,Tier-1,safe express,Bites,478,45266,104.77
+37,Tier-2,dtdc,Cookies,225,45053,22.46
+23,Tier-2,DTDC,Hakka,179,45015,141.09
+39,Tier-3,kerry,Cookies,261,45007,31.27
+15,Tier-2,safe express,Sevai,369,45103,95.3
+43,Tier-2,self,Hakka,331,45058,37.29
+29,Tier-2,dtdc,Bites,64,45312,49.55
+36,Tier-1,DTDC,Noodles,465,45039,84.24
+13,Tier-1,dtdc,Cookies,441,45236,65.49
+32,Tier-3,safe express,Sevai,100,45442,28.23
+7,Tier-2,SELF,Bites,287,45385,29.79
+22,Tier-2,courier,Others,110,45093,65.63
+28,Tier-3,dtdc,Others,164,45221,114.81
+2,Tier-2,self,Bites,386,45203,135.2
+42,Tier-2,self,Bites,358,45137,17.2
+6,Tier-1,akr express,Bites,460,45299,62.0
+28,Tier-3,dtdc,Hakka,373,45394,19.54
+28,Tier-3,courier,Bites,150,45206,7.41
+44,Tier-3,vrl,Cookies,182,45335,100.95
+44,Tier-3,VRL,Sevai,19,45080,92.36
+20,Tier-1,courier,Hakka,237,45217,28.64
+30,Tier-1,VRL,Bites,274,45001,38.9
+11,Tier-2,VRL,Pasta,447,45177,8.44
+28,Tier-2,SELF,Pasta,257,45395,126.07
+25,Tier-2,akr express,Sevai,256,45370,146.33
+39,Tier-2,courier,Others,164,45345,24.64
+33,Tier-1,courier,Noodles,43,45278,38.56
+1,Tier-3,SELF,Noodles,138,45145,130.92
+27,Tier-1,dtdc,Others,169,45317,139.34
+13,Tier-2,dtdc,Hakka,98,45223,65.85
+41,Tier-1,dtdc,Hakka,102,45368,12.34
+3,Tier-3,kerry,Hakka,336,45383,10.71
+39,Tier-3,VRL,Noodles,250,45061,88.22
+6,Tier-1,kerry,Pasta,332,45293,61.97
+8,Tier-1,akr express,Noodles,477,45238,9.15
+27,Tier-1,SELF,Cookies,413,45194,89.57
+9,Tier-2,courier,Bites,126,45165,6.64
+37,Tier-1,VRL,Hakka,103,45450,119.17
+33,Tier-1,kerry,Pasta,172,45221,49.43
+42,Tier-1,kerry,Sevai,108,45060,10.84
+44,Tier-3,DTDC,Sevai,122,45128,90.31
+24,Tier-3,kerry,Bites,368,45477,62.66
+15,Tier-2,vrl,Pasta,100,45172,146.2
+32,Tier-2,courier,Noodles,355,45479,83.91
+32,Tier-3,vrl,Noodles,215,45155,44.91
+24,Tier-3,courier,Cookies,26,45404,107.87
+41,Tier-3,SELF,Cookies,283,45377,44.37
+12,Tier-1,courier,Noodles,182,45109,136.12
+39,Tier-1,vrl,Sevai,125,45268,59.33
+2,Tier-3,courier,Hakka,358,45410,84.73
+3,Tier-1,SELF,Sevai,477,45355,12.33
+37,Tier-1,SELF,Cookies,190,45390,66.79
+17,Tier-2,akr express,Bites,100,45277,125.69
+2,Tier-3,courier,Noodles,91,45073,121.82
+2,Tier-3,DTDC,Cookies,333,45486,37.53
+28,Tier-1,dtdc,Cookies,458,45436,37.78
+23,Tier-3,self,Hakka,123,45462,123.51
+37,Tier-2,SELF,Noodles,266,45206,139.91
+32,Tier-2,safe express,Hakka,67,45387,18.83
+33,Tier-2,dtdc,Noodles,163,45479,70.26
+1,Tier-3,VRL,Hakka,374,45278,53.93
+19,Tier-3,courier,Sevai,413,45374,131.25
+2,Tier-3,vrl,Bites,125,45325,17.11
+44,Tier-3,self,Bites,352,45471,35.61
+26,Tier-3,safe express,Noodles,275,45339,114.11
+32,Tier-2,dtdc,Pasta,324,45356,12.44
+6,Tier-1,courier,Others,212,45339,76.42
+32,Tier-2,akr express,Cookies,50,45203,69.11
+4,Tier-3,VRL,Cookies,114,45160,53.49
+11,Tier-2,self,Noodles,398,45027,62.21
+17,Tier-3,DTDC,Hakka,387,45391,81.84
+38,Tier-3,akr express,Pasta,202,45256,28.4
+24,Tier-2,safe express,Sevai,410,45164,87.94
+5,Tier-3,self,Hakka,287,45062,121.79
+34,Tier-1,akr express,Hakka,363,45021,115.22
+6,Tier-3,VRL,Noodles,246,45069,27.32
+22,Tier-1,DTDC,Noodles,434,45380,26.64
+11,Tier-1,akr express,Cookies,230,45404,43.89
+16,Tier-3,kerry,Noodles,77,45095,57.36
+33,Tier-2,DTDC,Noodles,206,45162,64.23
+9,Tier-1,safe express,Noodles,265,45078,103.56
+6,Tier-2,VRL,Cookies,148,45004,13.22
+16,Tier-1,courier,Sevai,321,45315,10.03
+29,Tier-3,vrl,Sevai,444,45119,61.83
+3,Tier-3,vrl,Others,158,45301,106.09
+20,Tier-1,vrl,Others,108,45177,33.05
+36,Tier-3,self,Noodles,85,45175,98.02
+19,Tier-1,safe express,Others,291,45389,42.68
+26,Tier-3,VRL,Cookies,380,45216,133.48
+3,Tier-2,DTDC,Sevai,412,45055,134.88
+19,Tier-3,self,Hakka,118,45365,48.11
+20,Tier-2,safe express,Sevai,197,45186,38.35
+32,Tier-3,courier,Sevai,208,45231,64.64
+7,Tier-2,kerry,Cookies,312,45254,39.88
+41,Tier-3,VRL,Others,336,45412,102.5
+33,Tier-2,vrl,Hakka,163,45454,124.78
+40,Tier-1,akr express,Cookies,49,45103,102.6
+39,Tier-1,VRL,Noodles,142,45076,124.53
+18,Tier-2,SELF,Bites,414,45229,62.56
+40,Tier-3,safe express,Sevai,471,45401,27.67
+1,Tier-2,dtdc,Bites,141,45257,112.0
+11,Tier-3,courier,Cookies,288,45263,57.27
+28,Tier-1,kerry,Cookies,371,45330,102.33
+25,Tier-3,courier,Cookies,93,45480,44.24
+23,Tier-1,VRL,Bites,408,45181,16.78
+31,Tier-3,dtdc,Cookies,251,45380,148.92
+30,Tier-3,SELF,Noodles,125,45255,27.65
+42,Tier-3,DTDC,Cookies,118,45037,148.32
+35,Tier-2,akr express,Pasta,230,45175,146.71
+7,Tier-2,dtdc,Others,401,45026,120.1
+16,Tier-1,safe express,Bites,50,45275,100.62
+26,Tier-1,vrl,Pasta,377,45139,88.78
+2,Tier-2,SELF,Cookies,156,45298,130.58
+1,Tier-1,akr express,Noodles,121,45444,46.97
+12,Tier-2,kerry,Sevai,112,45286,72.81
+5,Tier-3,vrl,Hakka,55,45090,94.81
+37,Tier-1,VRL,Others,421,45479,64.62
+32,Tier-1,dtdc,Hakka,484,45060,66.99
+9,Tier-2,akr express,Cookies,333,45457,52.89
+41,Tier-1,self,Others,387,45450,86.81
+35,Tier-1,DTDC,Others,280,45364,128.33
+19,Tier-3,DTDC,Noodles,492,45346,34.22
+16,Tier-1,SELF,Others,430,45162,140.49
+3,Tier-3,kerry,Bites,394,45350,104.92
+20,Tier-2,SELF,Pasta,204,45142,124.37
+24,Tier-1,self,Pasta,376,45399,85.65
+33,Tier-3,safe express,Pasta,289,45252,118.03
+24,Tier-2,kerry,Bites,292,45268,7.35
+11,Tier-1,courier,Hakka,49,45368,123.67
+8,Tier-2,safe express,Noodles,456,45290,10.82
+36,Tier-1,kerry,Others,198,45499,134.04
+38,Tier-2,kerry,Bites,173,45458,148.83
+40,Tier-2,self,Pasta,491,45186,47.64
+20,Tier-3,VRL,Cookies,486,45404,35.5
+35,Tier-2,self,Sevai,33,45498,115.98
+25,Tier-1,kerry,Others,33,45437,41.69
+35,Tier-1,akr express,Bites,499,45458,130.51
+25,Tier-3,safe express,Bites,13,45413,19.91
+29,Tier-1,self,Noodles,332,45303,23.26
+18,Tier-1,VRL,Noodles,299,45290,146.98
+18,Tier-1,dtdc,Bites,450,45085,102.71
+2,Tier-2,SELF,Pasta,442,45165,127.8
+35,Tier-2,kerry,Sevai,480,45414,52.03
+16,Tier-1,courier,Others,190,45461,103.09
+41,Tier-3,dtdc,Noodles,257,45407,91.17
+36,Tier-2,DTDC,Others,125,45113,92.46
+33,Tier-3,vrl,Pasta,288,45432,103.97
+4,Tier-1,VRL,Others,374,45479,88.43
+33,Tier-1,courier,Cookies,78,45355,67.21
+14,Tier-2,vrl,Noodles,360,45415,45.01
+21,Tier-1,VRL,Pasta,263,45182,116.44
+20,Tier-2,akr express,Pasta,190,45206,37.81
+8,Tier-1,SELF,Sevai,327,45255,105.39
+7,Tier-1,dtdc,Sevai,178,45234,38.83
+3,Tier-2,safe express,Cookies,322,45441,95.67
+17,Tier-2,VRL,Pasta,258,45354,113.33
+33,Tier-2,safe express,Hakka,197,45002,36.71
+12,Tier-1,SELF,Pasta,63,45207,13.69
+22,Tier-1,kerry,Sevai,335,45196,23.99
+22,Tier-3,DTDC,Hakka,366,45340,92.87
+30,Tier-2,dtdc,Noodles,322,45124,128.17
+38,Tier-1,SELF,Noodles,147,45137,11.52
+38,Tier-1,SELF,Others,177,45338,111.45
+8,Tier-2,akr express,Bites,400,45024,54.49
+27,Tier-3,vrl,Sevai,112,45067,74.39
+27,Tier-2,DTDC,Bites,431,45060,139.68
+34,Tier-3,dtdc,Hakka,94,45028,53.14
+21,Tier-1,kerry,Sevai,326,45382,72.47
+30,Tier-3,kerry,Cookies,221,45018,6.98
+33,Tier-1,self,Pasta,12,45170,16.83
+28,Tier-2,SELF,Cookies,393,45449,42.5
+33,Tier-2,VRL,Hakka,188,45073,9.04
+5,Tier-2,akr express,Sevai,351,45060,96.55
+19,Tier-3,DTDC,Hakka,312,45426,66.83
+4,Tier-1,kerry,Pasta,461,45152,84.48
+35,Tier-2,dtdc,Noodles,485,45275,30.32
+17,Tier-2,self,Noodles,341,45047,47.91
+44,Tier-1,dtdc,Hakka,47,45210,101.25
+28,Tier-2,akr express,Bites,429,45342,144.97
+30,Tier-1,VRL,Sevai,248,45407,12.31
+29,Tier-1,self,Sevai,178,45138,134.11
+6,Tier-1,self,Noodles,462,45109,88.65
+35,Tier-1,vrl,Others,406,45481,86.77
+41,Tier-1,DTDC,Cookies,352,45182,77.54
+37,Tier-3,self,Others,323,45027,15.06
+24,Tier-2,vrl,Pasta,315,45196,18.03
+29,Tier-3,vrl,Cookies,39,45190,92.13
+31,Tier-2,akr express,Cookies,199,45314,54.44
+35,Tier-3,safe express,Hakka,366,45388,138.0
+33,Tier-1,dtdc,Noodles,34,45050,63.96
+21,Tier-2,VRL,Others,121,45148,25.78
+32,Tier-2,courier,Others,420,45267,108.63
+23,Tier-3,dtdc,Noodles,444,45049,47.54
+33,Tier-3,self,Others,215,45387,81.19
+3,Tier-2,VRL,Noodles,194,45245,106.19
+18,Tier-3,kerry,Hakka,391,45112,135.54
+25,Tier-3,safe express,Bites,388,45169,119.87
+42,Tier-3,kerry,Cookies,56,45467,103.07
+31,Tier-1,kerry,Hakka,383,45165,103.55
+3,Tier-1,DTDC,Sevai,237,45408,142.16
+40,Tier-3,dtdc,Pasta,48,45013,47.89
+24,Tier-3,courier,Bites,25,45202,5.16
+32,Tier-1,akr express,Sevai,31,45287,44.43
+22,Tier-1,courier,Cookies,222,45394,36.59
+23,Tier-2,kerry,Others,319,45188,100.97
+2,Tier-2,self,Noodles,158,45401,96.89
+27,Tier-1,safe express,Cookies,465,45154,91.05
+42,Tier-3,SELF,Hakka,250,45054,7.36
+2,Tier-3,courier,Pasta,281,45181,110.67
+26,Tier-3,kerry,Hakka,68,45209,51.91
+17,Tier-3,safe express,Bites,296,45375,101.43
+40,Tier-2,VRL,Bites,435,45470,85.7
+33,Tier-1,dtdc,Pasta,211,45074,54.7
+9,Tier-3,vrl,Sevai,41,45276,24.51
+43,Tier-2,DTDC,Sevai,452,45427,18.69
+39,Tier-3,safe express,Bites,171,45132,125.57
+29,Tier-1,self,Bites,264,45342,138.17
+42,Tier-2,self,Others,263,45424,99.22
+26,Tier-1,safe express,Noodles,18,45058,20.0
+35,Tier-1,self,Others,474,45344,63.29
+25,Tier-2,dtdc,Others,148,45488,110.7
+24,Tier-2,self,Sevai,489,45181,118.07
+13,Tier-2,courier,Pasta,19,45457,22.14
+7,Tier-2,vrl,Sevai,223,45405,5.0
+36,Tier-2,self,Noodles,282,45338,108.26
+20,Tier-2,vrl,Hakka,333,45320,56.71
+1,Tier-2,kerry,Bites,57,45063,41.9
+8,Tier-3,akr express,Bites,445,45326,6.87
+16,Tier-1,dtdc,Noodles,120,45259,83.34
+14,Tier-2,akr express,Others,162,45192,128.42
+12,Tier-3,kerry,Pasta,132,45142,143.86
+23,Tier-3,dtdc,Bites,414,45103,87.03
+15,Tier-3,safe express,Cookies,366,45459,79.6
+28,Tier-1,safe express,Others,111,45405,17.33
+34,Tier-2,vrl,Bites,250,45213,84.59
+2,Tier-3,kerry,Cookies,330,45241,60.1
+32,Tier-1,vrl,Noodles,200,45430,93.03
+23,Tier-1,DTDC,Noodles,226,45208,61.37
+22,Tier-1,self,Others,60,45092,39.84
+25,Tier-3,SELF,Bites,301,45429,18.77
+22,Tier-2,DTDC,Sevai,90,45141,50.66
+22,Tier-3,self,Cookies,498,45433,19.01
+42,Tier-3,dtdc,Pasta,392,45403,30.65
+6,Tier-2,vrl,Bites,97,45433,148.16
+15,Tier-2,dtdc,Pasta,203,45111,69.4
+43,Tier-2,dtdc,Bites,113,45416,82.12
+37,Tier-1,self,Sevai,280,45374,131.67
+33,Tier-2,kerry,Sevai,105,45058,149.36
+8,Tier-3,self,Others,432,45042,89.49
+44,Tier-2,VRL,Others,388,45206,122.81
+44,Tier-3,safe express,Sevai,207,45267,52.41
+5,Tier-1,safe express,Hakka,10,45295,49.33
+39,Tier-3,DTDC,Sevai,416,45117,63.39
+4,Tier-3,safe express,Noodles,387,45019,102.51
+6,Tier-2,self,Noodles,176,45221,103.92
+32,Tier-2,courier,Hakka,135,45165,50.71
+30,Tier-3,vrl,Cookies,322,45130,24.32
+35,Tier-2,self,Pasta,90,45155,96.7
+40,Tier-1,self,Bites,427,45183,23.61
+16,Tier-1,SELF,Bites,260,45089,88.88
+13,Tier-2,vrl,Hakka,178,45093,105.55
+42,Tier-1,VRL,Noodles,486,45012,106.59
+30,Tier-2,safe express,Others,82,45460,114.25
+19,Tier-3,vrl,Bites,150,45321,131.56
+17,Tier-3,safe express,Noodles,79,45292,77.49
+19,Tier-1,DTDC,Cookies,271,45432,110.89
+28,Tier-2,vrl,Pasta,349,45229,94.78
+26,Tier-2,safe express,Cookies,317,45321,32.06
+37,Tier-1,VRL,Hakka,254,45291,8.72
+26,Tier-3,akr express,Sevai,12,45437,46.26
+23,Tier-1,dtdc,Sevai,346,45025,69.24
+9,Tier-3,dtdc,Sevai,72,45074,94.48
+12,Tier-2,VRL,Cookies,58,45455,128.24
+1,Tier-3,SELF,Bites,85,45363,33.46
+1,Tier-1,akr express,Pasta,377,45423,23.2
+34,Tier-2,DTDC,Sevai,184,45298,144.7
+32,Tier-1,VRL,Hakka,118,45149,20.67
+25,Tier-1,dtdc,Hakka,192,45147,74.38
+40,Tier-3,dtdc,Sevai,201,45007,89.91
+1,Tier-1,dtdc,Sevai,74,45028,83.5
+16,Tier-3,kerry,Pasta,346,45295,17.47
+39,Tier-2,VRL,Sevai,460,45473,13.27
+5,Tier-3,self,Pasta,483,45413,20.3
+22,Tier-2,DTDC,Hakka,280,45208,89.91
+29,Tier-3,dtdc,Sevai,109,45127,83.93
+3,Tier-1,safe express,Cookies,41,45339,38.89
+12,Tier-3,VRL,Others,361,45115,97.48
+26,Tier-3,kerry,Cookies,137,45438,123.91
+16,Tier-2,VRL,Hakka,461,45143,11.03
+37,Tier-1,DTDC,Pasta,411,45429,77.23
+22,Tier-3,kerry,Cookies,378,45317,104.95
+29,Tier-1,DTDC,Pasta,348,45234,41.59
+14,Tier-3,VRL,Cookies,52,45006,49.63
+28,Tier-3,self,Cookies,381,45463,93.98
+5,Tier-1,DTDC,Pasta,428,45044,135.2
+30,Tier-3,kerry,Bites,497,45442,122.44
+5,Tier-1,kerry,Cookies,87,45238,89.55
+12,Tier-3,DTDC,Sevai,323,45439,110.88
+16,Tier-2,courier,Others,298,45431,57.9
+26,Tier-1,VRL,Hakka,279,45154,97.94
+26,Tier-3,courier,Bites,171,45180,72.6
+21,Tier-3,SELF,Pasta,198,45214,32.54
+39,Tier-2,VRL,Bites,256,45087,106.75
+36,Tier-1,DTDC,Noodles,397,45255,85.69
+33,Tier-3,akr express,Noodles,225,45072,57.0
+30,Tier-2,DTDC,Cookies,324,45418,137.14
+37,Tier-3,courier,Cookies,422,45178,8.04
+23,Tier-1,self,Sevai,348,45211,50.79
+10,Tier-3,DTDC,Others,399,45292,13.25
+5,Tier-3,DTDC,Hakka,386,45233,116.15
+36,Tier-3,self,Bites,490,45464,106.81
+34,Tier-3,DTDC,Noodles,442,45238,53.05
+31,Tier-2,dtdc,Cookies,177,45222,102.97
+10,Tier-2,akr express,Hakka,348,45118,62.41
+19,Tier-1,safe express,Bites,202,45312,114.66
+32,Tier-2,akr express,Cookies,462,45263,70.86
+1,Tier-2,DTDC,Cookies,292,45206,64.78
+5,Tier-1,dtdc,Noodles,345,45094,140.54
+4,Tier-2,VRL,Noodles,399,45372,41.38
+16,Tier-2,DTDC,Cookies,497,45221,22.46
+24,Tier-1,courier,Pasta,22,45365,89.76
+16,Tier-1,dtdc,Cookies,249,45275,145.55
+2,Tier-1,self,Hakka,329,45379,59.79
+28,Tier-3,dtdc,Cookies,455,45230,14.0
+32,Tier-3,self,Sevai,492,45308,54.2
+27,Tier-1,SELF,Others,156,45118,78.36
+20,Tier-1,safe express,Sevai,213,45267,28.48
+24,Tier-1,vrl,Sevai,89,45432,100.42
+12,Tier-3,dtdc,Pasta,388,45272,149.67
+35,Tier-3,kerry,Pasta,52,45063,70.5
+33,Tier-2,courier,Cookies,467,45297,56.44
+33,Tier-2,DTDC,Sevai,98,45349,63.1
+43,Tier-1,courier,Pasta,157,45412,21.7
+37,Tier-3,akr express,Noodles,104,45402,133.07
+12,Tier-3,vrl,Cookies,461,45493,65.15
+3,Tier-3,akr express,Hakka,437,45010,61.15
+1,Tier-1,SELF,Others,160,45097,100.66
+33,Tier-2,vrl,Bites,11,45433,69.09
+40,Tier-1,vrl,Cookies,385,45070,98.99
+10,Tier-2,akr express,Bites,31,45363,13.91
+43,Tier-2,self,Sevai,380,45057,122.99
+44,Tier-1,akr express,Others,322,45289,141.37
+29,Tier-2,courier,Bites,494,45250,99.07
+13,Tier-2,self,Sevai,337,45275,143.41
+12,Tier-3,courier,Noodles,16,45049,26.96
+31,Tier-2,SELF,Bites,215,45357,74.23
+2,Tier-1,DTDC,Others,449,45215,92.26
+35,Tier-1,VRL,Cookies,384,45393,89.35
+23,Tier-2,self,Sevai,460,45415,63.21
+17,Tier-3,SELF,Cookies,123,45051,54.02
+26,Tier-3,kerry,Others,281,45270,23.39
+8,Tier-2,SELF,Pasta,92,45484,61.8
+29,Tier-2,akr express,Sevai,188,45083,28.59
+26,Tier-1,akr express,Bites,219,45386,111.48
+10,Tier-2,VRL,Sevai,473,45292,35.28
+26,Tier-3,SELF,Cookies,337,45125,13.49
+34,Tier-2,safe express,Noodles,133,45295,85.09
+41,Tier-1,DTDC,Sevai,490,45071,91.31
+7,Tier-1,akr express,Bites,122,45295,131.43
+4,Tier-1,VRL,Pasta,21,45235,88.66
+11,Tier-1,DTDC,Hakka,135,45055,55.09
+29,Tier-1,SELF,Noodles,62,45406,121.44
+36,Tier-2,SELF,Pasta,340,45359,83.34
+25,Tier-2,vrl,Sevai,398,45394,16.5
+21,Tier-2,VRL,Cookies,292,45109,87.05
+36,Tier-2,akr express,Others,149,45191,136.66
+10,Tier-1,safe express,Cookies,410,45391,62.47
+37,Tier-3,SELF,Bites,399,45092,47.97
+9,Tier-2,safe express,Cookies,106,45349,25.8
+24,Tier-3,SELF,Noodles,14,45055,26.96
+35,Tier-2,akr express,Cookies,66,45059,67.75
+35,Tier-2,DTDC,Bites,421,45137,91.37
+36,Tier-3,dtdc,Hakka,343,45038,16.69
+18,Tier-1,DTDC,Sevai,78,45027,141.24
+39,Tier-2,SELF,Others,127,45048,114.49
+32,Tier-2,courier,Sevai,385,45419,90.06
+24,Tier-2,dtdc,Cookies,68,45124,125.12
+23,Tier-3,dtdc,Pasta,42,45012,16.63
+32,Tier-1,safe express,Sevai,327,45479,74.14
+37,Tier-3,VRL,Hakka,59,45035,96.36
+12,Tier-3,safe express,Cookies,377,45100,125.15
+13,Tier-1,safe express,Others,498,45281,118.6
+23,Tier-3,courier,Bites,28,45085,45.18
+25,Tier-1,DTDC,Hakka,223,45003,141.43
+35,Tier-2,DTDC,Cookies,206,45222,23.03
+41,Tier-1,kerry,Hakka,388,45337,131.89
+30,Tier-2,SELF,Sevai,459,45447,145.79
+17,Tier-3,courier,Others,487,45165,30.69
+20,Tier-3,kerry,Bites,56,45382,109.7
+25,Tier-2,akr express,Cookies,176,45343,10.84
+22,Tier-3,SELF,Noodles,461,45382,63.79
+13,Tier-1,SELF,Bites,298,45375,79.86
+19,Tier-2,vrl,Noodles,150,45470,89.19
+36,Tier-3,vrl,Hakka,93,45277,140.71
+12,Tier-2,self,Pasta,191,45129,102.48
+41,Tier-1,self,Bites,400,45030,74.79
+19,Tier-1,safe express,Hakka,88,45374,122.4
+12,Tier-3,akr express,Noodles,224,45010,142.83
+9,Tier-1,dtdc,Sevai,23,45475,8.2
+7,Tier-2,dtdc,Sevai,224,45301,147.47
+28,Tier-1,vrl,Pasta,412,45095,17.49
+14,Tier-2,vrl,Bites,137,45189,123.09
+31,Tier-2,vrl,Bites,319,45452,45.65
+19,Tier-1,courier,Bites,486,45191,24.17
+16,Tier-3,VRL,Hakka,257,45485,68.78
+5,Tier-1,self,Others,413,45265,98.37
+35,Tier-2,courier,Others,38,45423,60.24
+12,Tier-2,DTDC,Pasta,289,45127,12.91
+25,Tier-1,dtdc,Bites,347,45237,91.92
+21,Tier-3,SELF,Hakka,328,45407,135.85
+36,Tier-3,self,Sevai,211,45354,60.57
+23,Tier-2,kerry,Noodles,370,45427,36.37
+16,Tier-2,DTDC,Hakka,66,45111,69.17
+39,Tier-3,self,Others,401,45315,12.01
+42,Tier-1,courier,Others,227,45445,123.97
+39,Tier-2,akr express,Sevai,71,45342,124.82
+14,Tier-2,SELF,Sevai,166,45144,90.26
+31,Tier-3,self,Noodles,211,45064,56.2
+5,Tier-1,VRL,Sevai,26,45246,120.97
+35,Tier-3,vrl,Pasta,331,45222,85.43
+23,Tier-1,vrl,Noodles,15,45478,124.76
+29,Tier-1,SELF,Sevai,67,45489,96.56
+43,Tier-1,courier,Cookies,334,45312,118.74
+11,Tier-2,vrl,Hakka,421,45438,91.79
+18,Tier-3,self,Sevai,327,45105,65.05
+12,Tier-3,kerry,Pasta,178,45180,143.9
+9,Tier-1,dtdc,Bites,462,45183,83.46
+10,Tier-2,dtdc,Sevai,91,45225,92.74
+44,Tier-2,DTDC,Others,483,45264,36.97
+17,Tier-3,safe express,Others,477,45277,95.72
+38,Tier-2,akr express,Others,434,45396,87.88
+7,Tier-2,SELF,Bites,442,45088,31.8
+13,Tier-1,DTDC,Others,228,45175,13.64
+40,Tier-2,safe express,Cookies,186,45017,92.63
+42,Tier-1,courier,Sevai,213,45370,115.74
+9,Tier-3,VRL,Others,80,45459,80.89
+27,Tier-2,VRL,Noodles,396,45423,37.88
+2,Tier-3,akr express,Bites,275,45400,101.65
+5,Tier-3,vrl,Cookies,107,45398,16.62
+29,Tier-2,self,Noodles,354,45105,69.07
+37,Tier-2,DTDC,Noodles,300,45270,28.69
+38,Tier-3,DTDC,Noodles,217,45462,31.75
+19,Tier-2,SELF,Noodles,11,45318,34.33
+8,Tier-1,SELF,Sevai,133,45166,61.07
+1,Tier-1,VRL,Others,289,45012,12.42
+22,Tier-2,VRL,Hakka,83,45336,62.68
+17,Tier-3,kerry,Sevai,175,45031,79.2
+7,Tier-2,kerry,Sevai,31,45392,75.08
+25,Tier-2,vrl,Cookies,163,45039,60.5
+4,Tier-3,kerry,Cookies,436,45147,126.68
+36,Tier-3,self,Others,448,45217,26.07
+6,Tier-1,self,Hakka,304,45218,78.33
+31,Tier-3,DTDC,Cookies,228,45468,14.0
+19,Tier-1,dtdc,Others,166,45081,15.32
+44,Tier-3,self,Others,239,45332,88.21
+39,Tier-2,safe express,Pasta,29,45207,87.07
+27,Tier-1,VRL,Hakka,484,45200,132.31
+10,Tier-1,SELF,Cookies,50,45446,85.89
+26,Tier-1,kerry,Hakka,447,45331,144.17
+19,Tier-2,DTDC,Sevai,157,45427,12.06
+39,Tier-2,akr express,Sevai,117,45037,19.21
+3,Tier-2,SELF,Hakka,412,45210,11.39
+13,Tier-2,safe express,Pasta,93,45443,31.87
+28,Tier-2,kerry,Pasta,492,45326,83.48
+20,Tier-1,safe express,Hakka,376,45248,98.61
+28,Tier-2,VRL,Cookies,331,45226,11.61
+8,Tier-1,VRL,Bites,423,45047,142.17
+41,Tier-2,vrl,Pasta,318,45017,127.11
+39,Tier-3,DTDC,Noodles,299,45399,48.01
+1,Tier-1,SELF,Sevai,415,45438,16.19
+3,Tier-3,courier,Hakka,332,45294,29.63
+13,Tier-1,courier,Noodles,143,45195,23.41
+28,Tier-3,SELF,Hakka,216,45186,22.88
+25,Tier-2,akr express,Others,292,45344,80.19
+33,Tier-2,DTDC,Sevai,275,45223,40.65
+38,Tier-2,safe express,Sevai,82,45317,56.93
+6,Tier-1,akr express,Pasta,490,45487,148.48
+44,Tier-3,dtdc,Pasta,361,45396,104.23
+32,Tier-2,SELF,Noodles,57,45364,142.6
+21,Tier-3,safe express,Others,335,45336,25.67
+16,Tier-3,courier,Hakka,242,45496,60.41
+21,Tier-2,self,Others,452,45228,85.44
+11,Tier-2,vrl,Sevai,109,45389,16.13
+37,Tier-3,courier,Noodles,68,45466,5.61
+36,Tier-2,DTDC,Bites,267,45076,102.21
+35,Tier-2,VRL,Noodles,422,45187,98.06
+19,Tier-2,self,Cookies,461,45345,64.56
+20,Tier-1,vrl,Noodles,74,45269,76.0
+18,Tier-3,vrl,Others,92,45094,65.24
+41,Tier-3,dtdc,Cookies,163,45309,8.48
+14,Tier-1,dtdc,Cookies,482,45131,53.63
+15,Tier-3,kerry,Cookies,275,45038,30.68
+31,Tier-2,courier,Bites,318,45071,19.27
+1,Tier-3,courier,Noodles,88,45280,143.72
+3,Tier-2,courier,Others,324,45332,91.91
+16,Tier-1,kerry,Noodles,159,45159,110.66
+23,Tier-2,akr express,Bites,444,45186,50.73
+11,Tier-3,vrl,Sevai,57,45485,62.01
+12,Tier-3,self,Pasta,414,45190,39.35
+10,Tier-3,DTDC,Others,388,45421,19.06
+32,Tier-1,vrl,Others,257,45119,30.96
+16,Tier-1,dtdc,Noodles,287,45219,120.64
+8,Tier-3,safe express,Pasta,365,45052,103.24
+38,Tier-2,VRL,Hakka,107,45221,84.3
+12,Tier-1,kerry,Hakka,423,45450,73.89
+24,Tier-3,SELF,Bites,34,45411,138.75
+28,Tier-3,safe express,Hakka,293,45130,15.55
+8,Tier-1,DTDC,Others,458,45236,45.69
+28,Tier-1,courier,Hakka,378,45245,55.74
+36,Tier-1,dtdc,Sevai,310,45225,118.45
+26,Tier-2,dtdc,Sevai,77,45207,148.91
+8,Tier-2,dtdc,Sevai,16,45405,39.9
+28,Tier-3,courier,Hakka,314,45095,131.77
+28,Tier-1,SELF,Bites,146,45421,125.44
+37,Tier-2,kerry,Cookies,173,45199,37.58
+41,Tier-1,safe express,Cookies,92,45246,62.9
+36,Tier-3,courier,Pasta,394,45071,64.4
+27,Tier-2,DTDC,Cookies,147,45317,146.84
+17,Tier-2,kerry,Cookies,429,45184,31.23
+9,Tier-2,DTDC,Sevai,82,45005,120.88
+33,Tier-3,kerry,Sevai,246,45205,53.46
+20,Tier-1,SELF,Hakka,55,45031,110.98
+13,Tier-2,VRL,Pasta,115,45098,65.9
+28,Tier-3,DTDC,Noodles,425,45393,88.86
+29,Tier-1,courier,Others,297,45386,125.73
+13,Tier-3,kerry,Pasta,271,45255,121.6
+35,Tier-1,dtdc,Pasta,185,45186,130.63
+6,Tier-3,vrl,Bites,175,45075,13.64
+18,Tier-1,dtdc,Hakka,154,45176,105.35
+5,Tier-2,akr express,Bites,339,45314,25.3
+25,Tier-1,VRL,Pasta,379,45286,65.29
+2,Tier-3,VRL,Pasta,292,45348,84.55
+10,Tier-3,dtdc,Pasta,63,45254,63.4
+30,Tier-1,safe express,Cookies,187,45324,80.34
+5,Tier-2,SELF,Others,428,45189,149.5
+33,Tier-2,DTDC,Others,253,45307,24.61
+1,Tier-1,courier,Bites,350,45344,102.94
+18,Tier-1,VRL,Pasta,136,45126,62.42
+32,Tier-3,dtdc,Others,418,45424,24.29
+11,Tier-2,dtdc,Sevai,421,45286,28.02
+21,Tier-1,SELF,Others,376,45253,142.64
+26,Tier-2,SELF,Hakka,280,45212,132.54
+25,Tier-1,self,Hakka,141,45249,136.52
+22,Tier-1,self,Others,102,45083,148.77
+27,Tier-2,safe express,Sevai,388,45486,35.21
+13,Tier-1,safe express,Hakka,82,45382,56.54
+33,Tier-1,akr express,Cookies,420,45405,102.04
+34,Tier-3,safe express,Others,419,45387,75.15
+41,Tier-1,kerry,Cookies,412,45012,65.67
+35,Tier-1,SELF,Others,257,45044,56.88
+1,Tier-1,courier,Noodles,357,45126,91.1
+21,Tier-3,kerry,Noodles,282,45425,88.46
+6,Tier-2,DTDC,Noodles,52,45113,28.41
+28,Tier-3,dtdc,Hakka,386,45432,73.4
+17,Tier-3,safe express,Cookies,50,45275,85.25
+5,Tier-2,dtdc,Cookies,179,45499,87.69
+31,Tier-3,VRL,Cookies,443,45204,35.47
+5,Tier-2,akr express,Sevai,221,45336,112.63
+38,Tier-3,VRL,Cookies,177,45437,8.65
+3,Tier-2,akr express,Sevai,48,45419,56.45
+23,Tier-1,self,Noodles,378,45480,118.13
+37,Tier-3,dtdc,Noodles,254,45384,86.76
+37,Tier-3,akr express,Hakka,160,45398,42.87
+10,Tier-3,vrl,Others,120,45460,105.77
+10,Tier-3,kerry,Noodles,489,45272,87.27
+19,Tier-1,akr express,Others,445,45407,120.46
+17,Tier-3,akr express,Others,56,45057,111.58
+21,Tier-1,kerry,Hakka,72,45327,93.47
+14,Tier-1,dtdc,Pasta,234,45497,75.79
+9,Tier-1,dtdc,Pasta,375,45218,24.31
+1,Tier-1,kerry,Bites,78,45108,42.89
+13,Tier-2,VRL,Hakka,308,45278,65.77
+4,Tier-2,vrl,Bites,441,45173,91.9
+1,Tier-3,courier,Bites,299,45327,79.49
+40,Tier-2,DTDC,Pasta,305,45263,46.79
+32,Tier-2,vrl,Hakka,212,45314,5.94
+34,Tier-3,dtdc,Pasta,70,45473,76.95
+28,Tier-3,courier,Bites,443,45110,46.42
+31,Tier-3,self,Hakka,460,45186,111.52
+8,Tier-2,safe express,Bites,327,45268,8.47
+39,Tier-2,akr express,Cookies,323,45422,89.8
+26,Tier-3,kerry,Others,170,45228,141.51
+34,Tier-1,kerry,Hakka,340,45496,30.29
+3,Tier-3,akr express,Hakka,25,45155,73.39
+12,Tier-1,safe express,Others,347,45472,18.26
+1,Tier-1,DTDC,Bites,103,45188,95.72
+44,Tier-3,safe express,Cookies,313,45271,84.83
+5,Tier-3,courier,Sevai,147,45374,64.07
+30,Tier-3,safe express,Others,347,45001,80.6
+30,Tier-2,courier,Pasta,47,45245,135.0
+17,Tier-1,safe express,Bites,136,45209,33.46
+23,Tier-2,DTDC,Others,284,45400,8.27
+15,Tier-2,DTDC,Others,173,45285,129.94
+37,Tier-3,dtdc,Hakka,452,45358,88.68
+21,Tier-2,akr express,Pasta,328,45012,134.15
+14,Tier-3,DTDC,Pasta,86,45095,91.56
+2,Tier-1,courier,Pasta,183,45497,122.47
+11,Tier-3,DTDC,Others,396,45220,67.3
+39,Tier-2,dtdc,Sevai,467,45237,113.73
+38,Tier-2,kerry,Noodles,367,45093,137.39
+34,Tier-3,courier,Bites,330,45337,87.96
+38,Tier-3,dtdc,Noodles,385,45268,31.21
+34,Tier-2,VRL,Others,100,45170,43.98
+18,Tier-1,VRL,Noodles,247,45468,33.8
+30,Tier-1,self,Others,273,45093,40.79
+15,Tier-3,safe express,Noodles,188,45148,49.43
+27,Tier-1,akr express,Pasta,499,45111,85.49
+34,Tier-2,SELF,Cookies,218,45054,90.26
+38,Tier-3,vrl,Pasta,82,45336,66.84
+33,Tier-2,dtdc,Pasta,399,45423,94.24
+24,Tier-2,kerry,Hakka,116,45466,16.83
+15,Tier-1,vrl,Hakka,354,45115,17.73
+30,Tier-3,kerry,Noodles,304,45142,29.92
+42,Tier-3,vrl,Others,378,45200,80.12
+17,Tier-1,dtdc,Pasta,453,45179,36.03
+5,Tier-2,SELF,Noodles,293,45201,46.08
+29,Tier-2,vrl,Hakka,362,45363,63.05
+4,Tier-2,dtdc,Cookies,191,45478,122.72
+10,Tier-2,DTDC,Bites,46,45052,7.01
+17,Tier-3,SELF,Noodles,146,45470,99.16
+10,Tier-3,courier,Cookies,347,45383,101.99
+17,Tier-1,kerry,Bites,65,45179,120.81
+20,Tier-1,VRL,Sevai,196,45413,140.25
+24,Tier-3,safe express,Noodles,350,45416,7.92
+5,Tier-3,VRL,Noodles,267,45312,27.3
+34,Tier-2,SELF,Sevai,454,45307,133.49
+6,Tier-2,courier,Sevai,67,45136,71.49
+2,Tier-1,kerry,Noodles,372,45181,86.87
+13,Tier-3,courier,Sevai,132,45366,101.14
+43,Tier-1,vrl,Pasta,197,45000,103.46
+43,Tier-3,kerry,Bites,239,45043,140.1
+11,Tier-2,vrl,Bites,177,45226,149.56
+23,Tier-1,dtdc,Bites,429,45330,109.42
+16,Tier-1,SELF,Pasta,123,45097,46.65
+31,Tier-3,dtdc,Others,261,45207,132.56
+11,Tier-2,self,Sevai,116,45264,12.14
+16,Tier-1,courier,Cookies,46,45287,38.51
+8,Tier-2,vrl,Sevai,344,45270,135.12
+4,Tier-1,DTDC,Noodles,101,45139,42.15
+40,Tier-2,dtdc,Hakka,27,45480,36.99
+4,Tier-3,self,Bites,363,45236,25.03
+25,Tier-1,akr express,Sevai,72,45461,129.57
+3,Tier-1,VRL,Cookies,159,45440,77.51
+32,Tier-2,kerry,Noodles,148,45391,102.86
+3,Tier-2,self,Pasta,195,45071,39.66
+27,Tier-1,SELF,Others,194,45154,114.92
+29,Tier-3,dtdc,Pasta,214,45189,115.2
+32,Tier-2,SELF,Cookies,269,45267,50.33
+19,Tier-2,VRL,Noodles,223,45320,64.55
+21,Tier-2,DTDC,Bites,265,45106,35.41
+5,Tier-1,courier,Sevai,144,45231,146.6
+18,Tier-1,courier,Noodles,70,45041,98.61
+28,Tier-1,SELF,Others,372,45189,140.51
+42,Tier-1,vrl,Pasta,319,45370,48.99
+22,Tier-3,DTDC,Others,97,45138,118.37
+21,Tier-3,courier,Others,333,45102,116.05
+6,Tier-1,DTDC,Cookies,485,45170,105.29
+1,Tier-3,self,Cookies,216,45350,145.02
+5,Tier-2,DTDC,Sevai,138,45272,62.07
+41,Tier-2,safe express,Cookies,320,45480,23.95
+12,Tier-2,VRL,Cookies,12,45415,102.4
+26,Tier-1,courier,Noodles,471,45220,110.75
+34,Tier-2,DTDC,Bites,431,45212,88.38
+14,Tier-3,SELF,Sevai,251,45340,34.99
+26,Tier-1,akr express,Noodles,130,45423,78.15
+27,Tier-3,safe express,Bites,394,45406,50.27
+9,Tier-2,safe express,Others,111,45055,66.98
+26,Tier-2,vrl,Noodles,47,45389,98.56
+22,Tier-2,DTDC,Hakka,350,45341,113.06
+30,Tier-1,vrl,Noodles,422,45433,38.67
+43,Tier-3,vrl,Cookies,142,45101,63.77
+17,Tier-1,akr express,Bites,211,45420,44.03
+26,Tier-1,self,Sevai,357,45492,33.8
+36,Tier-2,DTDC,Sevai,30,45191,118.59
+1,Tier-1,dtdc,Bites,251,45498,136.84
+8,Tier-1,courier,Cookies,464,45309,58.68
+35,Tier-2,vrl,Pasta,460,45199,113.94
+15,Tier-1,VRL,Noodles,118,45232,135.06
+22,Tier-2,kerry,Cookies,312,45432,127.69
+14,Tier-2,VRL,Hakka,93,45226,31.51
+26,Tier-2,akr express,Others,92,45370,143.66
+28,Tier-2,akr express,Bites,300,45138,59.62
+23,Tier-1,SELF,Noodles,461,45343,54.19
+14,Tier-2,self,Sevai,78,45304,14.05
+24,Tier-2,courier,Others,138,45148,75.5
+2,Tier-1,vrl,Pasta,205,45114,20.81
+26,Tier-1,VRL,Hakka,149,45449,41.04
+14,Tier-3,kerry,Sevai,453,45062,50.96
+7,Tier-1,akr express,Bites,292,45103,122.28
+3,Tier-1,akr express,Noodles,321,45338,131.95
+23,Tier-3,self,Bites,243,45358,48.86
+43,Tier-1,kerry,Others,32,45155,129.51
+18,Tier-1,kerry,Noodles,162,45272,129.3
+38,Tier-1,self,Cookies,286,45005,115.87
+35,Tier-1,akr express,Pasta,70,45146,26.27
+15,Tier-3,courier,Cookies,328,45183,105.1
+25,Tier-1,DTDC,Cookies,387,45485,142.03
+37,Tier-1,DTDC,Bites,61,45027,103.97
+28,Tier-3,self,Others,353,45449,53.08
+10,Tier-2,kerry,Pasta,162,45037,77.58
+39,Tier-3,vrl,Noodles,246,45118,98.63
+17,Tier-2,self,Noodles,320,45292,79.03
+39,Tier-3,courier,Hakka,311,45370,22.39
+22,Tier-3,self,Sevai,41,45243,50.25
+26,Tier-1,safe express,Hakka,64,45067,121.35
+44,Tier-2,VRL,Hakka,361,45213,129.91
+25,Tier-1,kerry,Noodles,398,45217,24.91
+17,Tier-2,SELF,Bites,45,45176,143.1
+13,Tier-3,SELF,Cookies,119,45298,52.68
+20,Tier-3,kerry,Others,499,45163,101.04
+25,Tier-2,courier,Cookies,186,45057,114.01
+4,Tier-1,safe express,Cookies,371,45268,122.73
+10,Tier-1,safe express,Pasta,323,45307,142.13
+3,Tier-1,akr express,Noodles,304,45057,50.37
+41,Tier-1,VRL,Others,345,45287,129.48
+18,Tier-3,DTDC,Bites,106,45464,24.09
+36,Tier-3,dtdc,Pasta,378,45104,107.23
+22,Tier-3,courier,Sevai,222,45227,112.59
+34,Tier-3,dtdc,Bites,326,45246,103.27
+8,Tier-3,dtdc,Hakka,146,45187,41.59
+40,Tier-1,kerry,Bites,15,45493,131.59
+44,Tier-1,SELF,Bites,118,45082,29.48
+19,Tier-1,SELF,Cookies,44,45185,12.78
+42,Tier-1,DTDC,Bites,48,45251,109.03
+41,Tier-3,kerry,Hakka,159,45354,73.94
+37,Tier-3,dtdc,Hakka,434,45237,128.12
+6,Tier-3,vrl,Noodles,127,45359,60.59
+26,Tier-2,SELF,Bites,270,45183,29.4
+34,Tier-1,courier,Cookies,435,45283,126.28
+6,Tier-1,courier,Bites,96,45384,84.59
+37,Tier-3,akr express,Sevai,474,45425,32.43
+33,Tier-1,self,Sevai,85,45209,109.46
+22,Tier-1,vrl,Cookies,480,45303,79.11
+21,Tier-3,SELF,Noodles,473,45295,92.63
+6,Tier-2,safe express,Noodles,460,45096,71.83
+6,Tier-2,SELF,Hakka,423,45446,125.16
+4,Tier-2,akr express,Hakka,322,45459,125.29
+30,Tier-3,courier,Pasta,392,45455,107.86
+11,Tier-1,dtdc,Cookies,223,45471,20.28
+30,Tier-3,safe express,Bites,466,45207,126.63
+31,Tier-3,kerry,Others,294,45369,102.3
+24,Tier-1,VRL,Cookies,248,45387,106.07
+9,Tier-2,dtdc,Pasta,174,45421,57.63
+3,Tier-2,VRL,Hakka,96,45491,132.5
+31,Tier-3,vrl,Cookies,150,45410,110.18
+40,Tier-2,self,Cookies,169,45136,21.33
+37,Tier-3,safe express,Hakka,55,45366,64.13
+36,Tier-3,DTDC,Pasta,381,45399,133.53
+24,Tier-1,safe express,Hakka,121,45183,11.84
+31,Tier-1,SELF,Noodles,416,45075,144.41
+6,Tier-1,courier,Bites,54,45286,103.48
+2,Tier-3,SELF,Hakka,410,45471,96.55
+20,Tier-1,SELF,Pasta,256,45374,44.23
+28,Tier-2,vrl,Sevai,113,45141,41.07
+11,Tier-2,dtdc,Noodles,94,45236,141.6
+4,Tier-3,DTDC,Sevai,459,45024,48.25
+15,Tier-3,DTDC,Others,494,45289,117.45
+6,Tier-1,SELF,Hakka,143,45066,62.0
+30,Tier-3,VRL,Noodles,117,45249,25.19
+38,Tier-3,vrl,Bites,27,45407,6.55
+2,Tier-2,SELF,Hakka,103,45117,83.92
+15,Tier-2,self,Bites,159,45489,146.49
+11,Tier-1,courier,Cookies,255,45072,58.52
+8,Tier-3,dtdc,Sevai,298,45281,56.79
+26,Tier-3,kerry,Noodles,423,45403,54.89
+44,Tier-2,self,Bites,218,45447,80.48
+5,Tier-3,VRL,Pasta,135,45359,68.9
+6,Tier-2,safe express,Bites,244,45009,132.59
+26,Tier-1,safe express,Pasta,425,45210,78.3
+4,Tier-2,self,Hakka,435,45322,78.62
+19,Tier-3,SELF,Noodles,471,45151,25.06
+20,Tier-1,kerry,Bites,131,45004,147.5
+33,Tier-2,akr express,Others,147,45194,41.25
+20,Tier-2,akr express,Bites,124,45441,15.64
+12,Tier-1,VRL,Others,429,45282,101.16
+1,Tier-1,SELF,Noodles,171,45463,91.33
+26,Tier-2,DTDC,Bites,210,45112,65.2
+14,Tier-3,DTDC,Pasta,243,45270,66.22
+38,Tier-2,dtdc,Bites,37,45162,118.83
+37,Tier-1,kerry,Sevai,20,45459,33.38
+11,Tier-2,kerry,Hakka,215,45104,123.94
+36,Tier-1,safe express,Cookies,176,45180,99.07
+13,Tier-1,vrl,Pasta,256,45043,65.75
+43,Tier-3,VRL,Sevai,56,45281,71.41
+3,Tier-1,akr express,Others,255,45174,42.21
+33,Tier-1,VRL,Hakka,136,45161,114.06
+6,Tier-3,DTDC,Noodles,156,45470,79.37
+10,Tier-1,DTDC,Pasta,127,45350,51.52
+5,Tier-3,self,Cookies,408,45433,91.43
+23,Tier-3,dtdc,Hakka,391,45339,149.38
+10,Tier-1,kerry,Others,421,45139,68.11
+44,Tier-1,courier,Cookies,161,45470,138.5
+2,Tier-2,VRL,Noodles,81,45131,55.03
+13,Tier-3,DTDC,Noodles,372,45086,12.94
+40,Tier-2,vrl,Others,146,45175,34.62
+2,Tier-1,safe express,Pasta,184,45182,65.71
+20,Tier-2,akr express,Others,298,45367,36.85
+1,Tier-3,dtdc,Bites,455,45128,5.03
+37,Tier-2,vrl,Noodles,490,45245,137.68
+9,Tier-3,dtdc,Hakka,28,45088,127.36
+17,Tier-1,self,Bites,204,45065,112.63
+9,Tier-1,courier,Sevai,339,45157,29.33
+11,Tier-3,DTDC,Cookies,433,45386,22.45
+15,Tier-1,safe express,Bites,184,45377,14.8
+24,Tier-1,vrl,Cookies,499,45148,109.98
+38,Tier-1,dtdc,Others,458,45472,139.68
+35,Tier-1,kerry,Bites,422,45339,67.43
+30,Tier-3,self,Others,443,45432,22.28
+31,Tier-2,kerry,Sevai,363,45115,79.3
+5,Tier-2,safe express,Noodles,150,45213,55.58
+44,Tier-1,vrl,Sevai,255,45468,59.35
+14,Tier-2,self,Noodles,394,45445,95.09
+11,Tier-2,vrl,Others,427,45480,109.21
+9,Tier-1,DTDC,Noodles,102,45371,21.04
+34,Tier-1,SELF,Cookies,441,45293,10.16
+12,Tier-2,self,Hakka,248,45252,149.18
+35,Tier-3,kerry,Sevai,214,45142,38.75
+35,Tier-1,safe express,Bites,57,45249,12.81
+1,Tier-3,courier,Sevai,442,45365,32.53
+40,Tier-2,DTDC,Cookies,254,45435,10.65
+22,Tier-1,SELF,Noodles,329,45462,61.81
+29,Tier-3,courier,Cookies,326,45301,121.35
+8,Tier-1,akr express,Pasta,422,45024,54.48
+11,Tier-2,DTDC,Pasta,304,45276,69.41
+41,Tier-3,safe express,Bites,137,45471,102.96
+37,Tier-2,dtdc,Cookies,353,45376,78.79
+14,Tier-2,self,Others,291,45377,129.91
+30,Tier-1,vrl,Bites,26,45388,130.58
+35,Tier-3,safe express,Others,80,45069,6.44
+21,Tier-2,self,Bites,278,45112,117.82
+37,Tier-2,courier,Pasta,334,45362,71.81
+5,Tier-3,vrl,Bites,291,45111,148.38
+19,Tier-2,VRL,Pasta,314,45363,75.07
+14,Tier-2,kerry,Noodles,460,45302,148.1
+26,Tier-3,akr express,Others,16,45470,114.41
+4,Tier-3,DTDC,Cookies,323,45451,41.05
+25,Tier-3,safe express,Bites,314,45090,83.07
+42,Tier-3,akr express,Pasta,112,45017,148.86
+25,Tier-1,dtdc,Sevai,318,45148,129.34
+18,Tier-3,self,Others,202,45475,19.12
+40,Tier-1,self,Bites,250,45226,107.42
+8,Tier-1,safe express,Hakka,71,45213,55.11
+39,Tier-1,SELF,Noodles,26,45359,6.01
+40,Tier-2,SELF,Noodles,180,45150,63.5
+14,Tier-1,VRL,Sevai,34,45191,39.04
+32,Tier-1,kerry,Pasta,260,45450,123.74
+38,Tier-2,vrl,Bites,262,45039,53.91
+33,Tier-2,dtdc,Others,396,45241,124.99
+23,Tier-2,akr express,Pasta,216,45137,5.09
+15,Tier-3,SELF,Noodles,38,45344,49.63
+33,Tier-2,VRL,Pasta,126,45179,39.97
+25,Tier-2,VRL,Noodles,425,45496,38.87
+17,Tier-1,safe express,Pasta,291,45199,14.89
+33,Tier-2,dtdc,Sevai,389,45202,32.13
+2,Tier-3,courier,Cookies,153,45060,85.55
+14,Tier-2,vrl,Sevai,34,45191,47.25
+40,Tier-3,kerry,Sevai,319,45004,65.52
+40,Tier-2,DTDC,Cookies,165,45377,59.65
