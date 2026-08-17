@@ -1,222 +1,147 @@
 # Delivery Intelligence ML
 
-Predicting **customer segment** and **delivery lead time** from order-logistics data, using a reproducible, testable, containerized scikit-learn pipeline.
-
-This project converts an original MBA-style descriptive analytics exercise (correlation tables, ANOVA, groupby summaries) into a proper supervised-learning project: trained models, held-out evaluation, baseline comparisons, and a deployable REST API.
+An end-to-end, production-grade machine learning system designed to predict **customer segment** and **delivery lead times** from order and logistics transaction logs using a reproducible, containerized scikit-learn pipeline and FastAPI REST API.
 
 > [!NOTE]
 > **Confidentiality & Anonymization Notice**
-> The raw data files in this public repository (`data/raw/`) contain completely synthetic, anonymized dummy data generated to replace proprietary business data from an internship. The client names, carriers, transaction prices, and order quantities are fully anonymized. Consequently, model performance metrics on this public version reflect training on random synthetic distributions (leading to random-guessing baselines) and are meant for pipeline demonstration, testing, and deployment verification purposes only.
+> The raw datasets (`data/raw/`) contain completely synthetic, anonymized dummy data generated to protect proprietary commercial metrics. All client names, prices, quantities, and carrier associations have been fully randomized. Performance metrics reflect training on these synthetic distributions for demonstration, testing, and deployment verification.
 
 ---
 
-## 1. Problem Statement
+## 1. Project Overview
 
-An e-commerce/logistics operation logs orders across five extracts (`OB1`–`OB5`) capturing category, carrier, city tier, price, quantity, delivery lead time, customer, and an assigned RFM-style segment. Two supervised problems are addressed:
+This project implements a multi-task machine learning system to address two primary business objectives:
 
-| Task | Type | Target | Why it matters |
-|---|---|---|---|
-| Customer Segment Prediction | Multi-class classification | `segment` (Champion / Loyal / Potential / At Risk / Lost) | Segment new/unlabelled customers for targeted marketing without waiting for a full RFM recompute |
-| Delivery Lead Time Prediction | Regression | `delivery_lead_time` (days) | Estimate delivery time at order time from category, carrier, and location, before the order actually ships |
+| Target | Task Type | Description |
+|---|---|---|
+| `segment` | Multi-class Classification | Predicts the RFM customer segment (Champion, Loyal, Potential, At Risk, Lost) to enable real-time targeted marketing. |
+| `delivery_lead_time` | Regression | Estimates the delivery duration in days at order time, enabling dynamic SLA predictions before fulfillment. |
 
 ---
 
-## 2. Dataset
+## 2. Tech Stack
 
-- **Source**: `OB1.csv`–`OB5.csv` (11,436 rows each, row-aligned — verified 1:1 identical values on shared columns across files before merging positionally) + `FORECAST.csv` (3,728-row daily sales series, not used by the two supervised tasks above but retained for future time-series work).
-- **Merged schema** (`data/processed/merged_dataset.csv`, built by `src/data_loader.py`):
-
-  | Column | Type | Description |
-  |---|---|---|
-  | `delivery_lead_time` | int | Days between order and delivery |
-  | `city_tier` | category | Tier-1 / Tier-2 / Tier-3 |
-  | `carrier` | category | Shipping carrier (lower-cased, whitespace-normalized) |
-  | `category` | category | Product category |
-  | `quantity` | int | Units ordered |
-  | `price` | float | Unit price |
-  | `customer` | string | Customer identifier |
-  | `segment` | category | RFM-style customer segment label (pre-assigned in source data) |
-  | `order_date` | date | Parsed order date |
-
-- **Class balance** (`segment`): Champion 40.5%, Loyal 22.7%, Potential 18.2%, At Risk 13.3%, Lost 5.3% — imbalanced, handled via `class_weight="balanced"` and weighted F1/ROC-AUC rather than raw accuracy.
-- **Data quality**: no missing values or duplicate rows found in the merged set; assertions in `data_loader.py` enforce non-negative quantity/lead-time and complete segment labels at build time.
-
-**Known limitation (documented, not hidden):** the `segment` label's original derivation rule (e.g. exact RFM thresholds) is not available in the source files, so it is used as given. This is disclosed rather than assumed to be leakage-free.
+*   **Language**: Python 3.11+
+*   **Machine Learning**: `scikit-learn`, `pandas`, `numpy`, `joblib`
+*   **REST API**: `FastAPI`, `uvicorn`, `pydantic`
+*   **Testing**: `pytest`
+*   **Visualizations**: `matplotlib`
+*   **Containerization & Deployment**: `Docker`, `Docker Compose`
+*   **CI/CD**: GitHub Actions
 
 ---
 
 ## 3. Project Structure
 
-```
+```text
 delivery-intelligence-ml/
+├── .github/workflows/ci.yml   # CI pipeline (lint -> test -> build)
 ├── data/
-│   ├── raw/                  # Original OB1-OB5.csv, FORECAST.csv (untouched)
-│   └── processed/            # merged_dataset.csv (generated, gitignored)
+│   ├── raw/                  # Original OB1-OB5.csv, FORECAST.csv (anonymized)
+│   └── processed/            # merged_dataset.csv (generated at runtime)
 ├── src/
-│   ├── config.py             # All paths, hyperparameters, feature lists — single source of truth
-│   ├── data_loader.py         # Merge + validate OB1-OB5 into one dataset
-│   ├── preprocessing.py       # Cleaning + ColumnTransformer (encode/scale)
-│   ├── train.py               # Trains classifier + regressor, runs CV, saves metrics
-│   ├── evaluate.py            # Metrics + confusion matrix / residual / importance plots
-│   ├── predict.py             # Inference API (loads saved pipeline, no re-fitting)
-│   └── app.py                 # FastAPI serving layer
-├── models/                    # segment_classifier.joblib, lead_time_regressor.joblib
+│   ├── config.py             # Paths, feature settings, and model hyperparameters
+│   ├── data_loader.py         # Merges raw datasets positionally & runs assertions
+│   ├── preprocessing.py       # Data cleaning and scikit-learn ColumnTransformer
+│   ├── train.py               # Pipeline fitting, baseline comparison, model export
+│   ├── evaluate.py            # Generates classification/regression metrics & plots
+│   ├── predict.py             # CLI inference loading serialized pipelines
+│   └── app.py                 # FastAPI serving endpoints
+├── models/                    # Serialized joblib pipelines (preprocessor + estimator)
 ├── reports/
-│   ├── figures/               # confusion_matrix.png, residuals.png, feature_importance.png
+│   ├── figures/               # Confusion matrix, residual plots, feature importances
 │   ├── classification_metrics.json
 │   └── regression_metrics.json
-├── notebooks/
-│   └── 01_eda_and_pipeline_overview.ipynb
-├── tests/                     # pytest suite for data, preprocessing, training
-├── .github/workflows/ci.yml   # lint -> test -> train -> docker build
-├── Dockerfile
-├── docker-compose.yml
-├── requirements.txt
+├── notebooks/                 # Exploratory data analysis (EDA)
+├── tests/                     # Unit and integration test suite
+├── Dockerfile                 # Multi-stage container definition
+├── docker-compose.yml         # Local orchestration file
+├── requirements.txt           # Package dependencies
 └── README.md
 ```
 
 ---
 
-## 4. Methodology
+## 4. Pipeline Architecture & Methodology
 
-### Preprocessing (`src/preprocessing.py`)
-- Deduplication, string trimming, carrier name normalization.
-- `ColumnTransformer`: `OneHotEncoder` (categoricals) + `StandardScaler` (numerics), wrapped with `SimpleImputer` for robustness to missing values.
-- Encoder/scaler are **fit only on training data** inside an sklearn `Pipeline`, then persisted as one artifact — eliminates train/serve skew by construction.
-
-### Models & baselines (`src/train.py`)
-| Task | Model | Baseline(s) |
-|---|---|---|
-| Classification | `RandomForestClassifier` (n=300, max_depth=12, class_weight="balanced") | Majority-class `DummyClassifier`, `LogisticRegression` |
-| Regression | `RandomForestRegressor` (n=300, max_depth=12) | Mean-predictor `DummyRegressor`, `LinearRegression` |
-
-- 5-fold cross-validation (`StratifiedKFold` for classification) on the training split.
-- All hyperparameters centralized in `config.py`.
-
-### Evaluation (`src/evaluate.py`)
-- Classification: accuracy, precision/recall/F1 (weighted), ROC-AUC (OvR weighted), confusion matrix.
-- Regression: MAE, MSE, RMSE, R².
-- Feature importance (top 15) and diagnostic plots saved to `reports/figures/`.
+*   **Robust Preprocessing**: Uses a scikit-learn `ColumnTransformer` wrapping a `OneHotEncoder` (handling unseen categories gracefully at inference) and a `StandardScaler`. All steps are nested within a parent `Pipeline` to prevent data leakage.
+*   **Zero Train-Serve Skew**: Encoders and scalers are fitted on the training split *only* and serialized along with the model weights into a single `joblib` object. The API directly calls `.predict()` on the loaded pipeline, ensuring identical data preparation steps.
+*   **Baseline Comparisons**: Evaluates models against standard baseline estimators (`DummyClassifier` majority-class and `DummyRegressor` mean-predictor) and linear benchmarks (`LogisticRegression`, `LinearRegression`) to justify model choice.
 
 ---
 
-## 5. Results
+## 5. Setup & Usage
 
-*(Generated by running this exact pipeline on the anonymized dummy dataset — reproduce with `python -m src.train --task all`.)*
+### Local Python Environment
 
-### Classification — Customer Segment
+1.  **Clone and Install Dependencies**:
+    ```bash
+    git clone https://github.com/Jaiwanth-MJ/Delivery-Intelligence-ML.git
+    cd delivery-intelligence-ml
+    python -m venv .venv
+    # Windows
+    .venv\Scripts\activate
+    # macOS/Linux
+    source .venv/bin/activate
+    pip install -r requirements.txt
+    ```
 
-| Metric | RandomForest | Logistic Regression | Majority-class baseline |
-|---|---|---|---|
-| Accuracy | 0.275 | 0.180 | 0.395 |
-| F1 (weighted) | 0.269 | — | — |
-| ROC-AUC (OvR, weighted) | 0.499 | — | — |
-| 5-fold CV F1 (mean ± std) | 0.283 ± 0.035 | — | — |
+2.  **Ingest & Merge Data**:
+    ```bash
+    python -m src.data_loader
+    ```
 
-**Anonymized data interpretation:** Since the dataset contains randomly generated dummy values to ensure commercial confidentiality, the models exhibit performance close to a random-guessing baseline (ROC-AUC around 0.50). The pipeline remains fully executable and demonstrates how class imbalance handling (`class_weight="balanced"`) trades raw accuracy for recall on minority classes under normal conditions.
+3.  **Train & Evaluate Models**:
+    ```bash
+    python -m src.train --task all
+    ```
 
-### Regression — Delivery Lead Time
+4.  **Run Tests**:
+    ```bash
+    pytest tests/ -v
+    ```
 
-| Metric | RandomForest | Linear Regression | Mean-predictor baseline |
-|---|---|---|---|
-| MAE | 10.78 days | — | — |
-| RMSE | 12.61 days | — | — |
-| R² (test) | -0.063 | -0.047 | -0.012 |
-| 5-fold CV R² (mean ± std) | -0.056 ± 0.038 | — | — |
-
-**Anonymized data interpretation:** The negative $R^2$ scores and baseline comparisons confirm that the synthetic dummy columns carry no real correlation with delivery times. On real-world production data, these models capture underlying patterns (e.g., carrier latency and product dimensions) to yield predictive signal over the mean baseline. The pipeline is designed to easily ingest and fit new, real distributions.
-
-Full metrics: `reports/classification_metrics.json`, `reports/regression_metrics.json`.
-Figures: `reports/figures/`.
+5.  **Run CLI Inference Example**:
+    ```bash
+    python -m src.predict --task segment --input '{"quantity":250,"delivery_lead_time":12,"price":62.3,"category":"Noodles","carrier":"akr express","city_tier":"Tier-2"}'
+    ```
 
 ---
 
-## 6. Setup & Usage
+## 6. Docker Deployment
 
-### Local (Python)
-
-```bash
-git clone <your-repo-url>
-cd delivery-intelligence-ml
-python -m venv venv && source venv/bin/activate   # Windows: venv\Scripts\activate
-pip install -r requirements.txt
-
-# Build the merged dataset
-python -m src.data_loader
-
-# Train both models (saves to models/, metrics to reports/)
-python -m src.train --task all
-
-# Run the test suite
-pytest tests/ -v
-
-# CLI inference example
-python -m src.predict --task segment --input '{"quantity":250,"delivery_lead_time":12,"price":62.3,"category":"Noodles","carrier":"akr express","city_tier":"Tier-2"}'
-```
-
-### Docker
-
+### Multi-stage Docker Build
+Build and run the containerized FastAPI server locally:
 ```bash
 docker build -t delivery-intelligence-ml .
 docker run -p 8000:8000 delivery-intelligence-ml
 ```
 
-or with Compose:
-
+### Docker Compose
+Run the stack using Docker Compose:
 ```bash
 docker compose up --build
 ```
+The REST API will be available at `http://localhost:8000`. Access interactive docs at `http://localhost:8000/docs`.
 
-The API will be available at `http://localhost:8000`. Interactive docs at `http://localhost:8000/docs`.
+---
 
-### API Endpoints
+## 7. API Endpoints
 
-| Method | Endpoint | Body | Response |
+| Method | Endpoint | Description | Payload Schema |
 |---|---|---|---|
-| GET | `/health` | — | `{"status": "ok"}` |
-| POST | `/predict/segment` | `{"quantity", "delivery_lead_time", "price", "category", "carrier", "city_tier"}` | `{"predicted_segment": "..."}` |
-| POST | `/predict/lead-time` | `{"quantity", "price", "category", "carrier", "city_tier", "segment"}` | `{"predicted_delivery_lead_time_days": ...}` |
-
-Example:
-```bash
-curl -X POST http://localhost:8000/predict/segment \
-  -H "Content-Type: application/json" \
-  -d '{"quantity":250,"delivery_lead_time":12,"price":62.3,"category":"Noodles","carrier":"akr express","city_tier":"Tier-2"}'
-```
+| **GET** | `/health` | Liveness health check | None |
+| **POST** | `/predict/segment` | Predicts RFM Customer Segment | `{"quantity", "delivery_lead_time", "price", "category", "carrier", "city_tier"}` |
+| **POST** | `/predict/lead-time` | Predicts Delivery Lead Time (Days) | `{"quantity", "price", "category", "carrier", "city_tier", "segment"}` |
 
 ---
 
-## 7. CI/CD
+## 8. Continuous Integration
 
-`.github/workflows/ci.yml` runs on every push/PR to `main`:
-1. Install dependencies
-2. Lint (flake8, non-blocking)
-3. Build the processed dataset
-4. Run pytest
-5. Retrain both models (integration smoke test) and upload artifacts
-6. Build the Docker image
-
----
-
-## 8. Limitations & Future Work
-
-- Segment label provenance (original RFM rule) is not documented in source data — flagged, not fabricated.
-- Delivery lead time R² is modest; likely missing predictive features (distance, real-time carrier load) not present in the source extracts.
-- `FORECAST.csv` (daily sales time series) is loaded (`data_loader.load_forecast_series`) but not yet modeled — a natural next step is a lag-feature regression or ARIMA/Prophet forecast.
-- Hyperparameter tuning was kept deliberately simple (fixed, justified values in `config.py`) rather than an exhaustive grid search, to keep the pipeline's behavior transparent and reproducible; `GridSearchCV`/`RandomizedSearchCV` over the existing `Pipeline` objects is a straightforward extension.
-
----
-
-## 9. For AI Assistants / Future Contributors
-
-- **Single source of truth for paths/hyperparameters**: `src/config.py`. Change values there, not inline in scripts.
-- **Never re-fit encoders at inference time** — `predict.py` and `app.py` only call `.predict()` on the joblib-loaded `Pipeline`; if you need to retrain, use `train.py`.
-- **Data flow**: `data/raw/*.csv` → `data_loader.build_merged_dataset()` → `data/processed/merged_dataset.csv` → `preprocessing.py` → `train.py` → `models/*.joblib` + `reports/*.json`.
-- Run `pytest tests/ -v` before committing any change to `src/`.
-- The row alignment between OB1–OB5 (positional merge) was empirically verified (see `notebooks/01_eda_and_pipeline_overview.ipynb`) — do not change the merge to a key-based join without re-validating row correspondence first.
-
----
-
-## License
-
-MIT — see `LICENSE`.
+The repository uses GitHub Actions (`.github/workflows/ci.yml`) to automatically validate modifications on every push or pull request:
+1. Installs project dependencies.
+2. Runs style checks (`flake8`).
+3. Compiles the dataset (`src.data_loader`).
+4. Executes unit tests (`pytest`).
+5. Runs smoke test model training and uploads reports/model artifacts.
+6. Builds the Docker production image.
